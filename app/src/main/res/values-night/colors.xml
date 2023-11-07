@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorDark">#024CD4</color>
+    <color name="colorAccent">#E7E1E1</color>
+    <color name="bgclr">#142C42</color>
+    <color name="txtclr">#F1EDED</color>
+    <color name="status_navi_color">#AF0E14</color>
+    <color name="status_shadow_color">#F6FBFF</color>
+    <color name="menu_color">#DEDFE0</color>
+    <color name="countclr">#011854</color>
+    <color name="viewclr">#FFFFFF</color>
+    <color name="acheivementcolor">#252B4C</color>
+
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#111111</color>
+    <color name="black1">#0E0E0E</color>
+    <color name="white">#FAF6F6</color>
+    <color name="col1">#103634</color>
+    <color name="col2">#F49E71</color>
+    <color name="col3">#094753</color>
+    <color name="col4">#C6944A</color>
+    <color name="col5">#1F0513</color>
+    <color name="col6">#251515</color>
+    <color name="col7">#D3EF01</color>
+    <color name="col8">#0D3A54</color>
+    <color name="col9">#2DA7A5A5</color>
+    <color name="col10">#0652DD</color>
+    <color name="col11">#013A58</color>
+    <color name="col12">#F9DBAF</color>
+    <color name="col13">#03ECF8</color>
+    <color name="col14">#013D5D</color>
+    <color name="col15">#078A02</color>
+    <color name="col16">#0099ff</color>
+    <color name="col17">#EA2027</color>
+    <color name="col18">#DBBB04</color>
+    <color name="col19">#0099ff</color>
+    <color name="col20">#013550</color>
+    <color name="col21">#393636</color>
+    <color name="color1">#C60101</color>
+    <color name="color2">#5E5F5F</color>
+
+    <!--Light Mode Color-->
+    <color name="colorAccent_Light">#FFEB3B</color>
+    <color name="background_Light">#FDFDFE</color>
+    <color name="background_Light1">#76769D</color>
+    <color name="Background_Light_S">#ECECEC</color>
+    <color name="Titele_A_Light">#161616</color>
+    <color name="Titele_AA_Light">#6D6D6D</color>
+    <color name="Boder_Light">#1A0C1318</color>
+
+    <!--Night Mode Color-->
+    <color name="colorAccent_Night">#FFEB3B</color>
+    <color name="background_Night">#000000</color>
+    <color name="Background_Night_S">#121212</color>
+    <color name="Titele_A_Night">#DBDBDB</color>
+    <color name="Titele_AA_Night">#E9A0A0A0</color>
+    <color name="Boder_Night">#191919</color>
+    <color name="blue_500">#FF2196F3</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorTextHint">#7B7B7B</color>
+    <color name="colorDefaultNoteColor">#404040</color>
+    <color name="colorNoteSubTitleText">#Fafafa</color>
+    <color name="colorNoteColor2">#fdbe3b</color>
+    <color name="colorNoteColor3">#E040FB</color>
+    <color name="colorNoteColor4">#3a52fc</color>
+    <color name="colorNoteColor5">#F50057</color>
+    <color name="colorNoteColor6">#00E676</color>
+    <color name="colorNoteColor7">#FF3D00</color>
+    <color name="colorNoteColor8">#0090FF</color>
+    <color name="colorDelete">#ff4842</color>
+    <color name="circle_lock_screen_pf">#EE5555</color>
+    <color name="background_lock_screen_pf">#663333</color>
+    <color name="code_lock_screen_pf">#000000</color>
+    <color name="white_selector_pf">#66000000</color>
+    <color name="hint_color">#42000000</color>
+    <color name="warning_color">#f4511e</color>
+    <color name="success_color">#009688</color>
+    <color name="allbloodbgclr">#F82C4868</color>
+    <color name="posttime">#D6B500</color>
+    <color name="verifyicon">#03F6E2</color>
+    <color name="color6">#12283D</color>
+    <color name="verifybtnclr">#DD0101</color>
+
+</resources>

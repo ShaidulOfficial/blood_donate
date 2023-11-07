@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/common_google_signin_btn_text_dark_default"
+    tools:context=".fragments.PostReceiverFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="@dimen/_16sdp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_3sdp"
+                android:layout_marginBottom="@dimen/_3sdp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/_4sdp"
+                    android:text="@string/mobile"
+                    android:textSize="@dimen/_15ssp"
+                    android:textColor="@color/black" />
+
+                <EditText
+                    android:id="@+id/getMobile_rcvr"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/_10sdp"
+                    android:hint="@string/mobile"
+                    android:inputType="phone"
+                    android:padding="@dimen/_5sdp"
+
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/_14ssp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_60sdp"
+                android:layout_marginTop="@dimen/_3sdp"
+                android:layout_marginBottom="@dimen/_3sdp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:padding="@dimen/_4sdp"
+                    android:text="@string/location1"
+                    android:textSize="@dimen/_15ssp"
+                    android:textColor="@color/black" />
+
+                <EditText
+                    android:id="@+id/getLocation_rcvr"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:hint="@string/enter_location_of_place"
+                    android:inputType="textCapWords"
+                    android:maxLines="3"
+                    android:textSize="@dimen/_15ssp"
+                    android:padding="@dimen/_5sdp"
+                    android:textColor="@color/black"
+                    android:textIsSelectable="true" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_3sdp"
+                android:layout_marginBottom="@dimen/_3sdp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/_5sdp"
+                    android:text="@string/patient_name"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/_14ssp" />
+
+                <EditText
+                    android:id="@+id/patient_name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/_1sdp"
+                    android:hint="@string/patient_name1"
+                    android:inputType="textCapWords"
+                    android:padding="@dimen/_5sdp"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/_14ssp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_8sdp"
+                android:layout_marginBottom="@dimen/_3sdp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="@dimen/_5sdp"
+                    android:padding="@dimen/_5sdp"
+                    android:text="@string/patientAge"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/_16ssp" />
+
+                <EditText
+                    android:id="@+id/patientageEdt_rcvr"
+                    android:layout_width="@dimen/_75sdp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="@dimen/_5sdp"
+                    android:hint="@string/bag"
+                    android:inputType="number"
+                    android:padding="@dimen/_5sdp"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/_18ssp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/_5sdp"
+                    android:text="@string/year"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/_14ssp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_3sdp"
+                android:layout_marginBottom="@dimen/_3sdp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/_5sdp"
+                    android:text="@string/patient_blood_group"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/_14ssp" />
+
+                <androidx.appcompat.widget.AppCompatSpinner
+                    android:id="@+id/patient_blood_group_spinner"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/_4sdp"
+                    android:entries="@array/blood_groups" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_3sdp"
+                android:layout_marginBottom="@dimen/_3sdp"
+                android:background="@drawable/square_border3"
+                android:orientation="vertical"
+                android:padding="@dimen/_4sdp">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/patientType"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/_16ssp"
+
+                    />
+
+                <RadioGroup
+                    android:id="@+id/patientRadiogroup"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <RadioButton
+                        android:id="@+id/patientRbmale"
+                        android:layout_width="@dimen/_65sdp"
+                        android:layout_height="@dimen/_45sdp"
+                        android:layout_marginLeft="@dimen/_8sdp"
+                        android:buttonTint="@color/col15"
+                        android:text="@string/male1"
+                        android:textSize="@dimen/_13ssp" />
+
+                    <RadioButton
+                        android:id="@+id/patientRbfemale"
+                        android:layout_width="@dimen/_85sdp"
+                        android:layout_height="@dimen/_45sdp"
+                        android:layout_marginLeft="@dimen/_8sdp"
+                        android:buttonTint="@color/col15"
+                        android:text="@string/female1"
+                        android:textSize="@dimen/_13ssp" />
+
+                    <RadioButton
+                        android:id="@+id/patientRbbaby"
+                        android:layout_width="@dimen/_65sdp"
+                        android:layout_height="@dimen/_45sdp"
+                        android:layout_marginLeft="@dimen/_8sdp"
+                        android:buttonTint="@color/col15"
+                        android:text="@string/baby"
+                        android:textSize="@dimen/_13ssp" />
+                </RadioGroup>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_3sdp"
+                android:layout_marginBottom="@dimen/_3sdp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/_5sdp"
+                    android:text="@string/blood_bag_ammount"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/_14ssp" />
+
+                <EditText
+                    android:id="@+id/blood_bag_quantity"
+                    android:layout_width="@dimen/_70sdp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/_1sdp"
+                    android:hint="@string/bag"
+                    android:inputType="numberDecimal"
+                    android:padding="@dimen/_5sdp"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/_18ssp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/_5sdp"
+                    android:text="@string/bag1"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/_14ssp" />
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_3sdp"
+                android:layout_marginBottom="@dimen/_3sdp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/_5sdp"
+                    android:text="@string/hospital_name"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/_14ssp" />
+
+                <EditText
+                    android:id="@+id/hospital_name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/_1sdp"
+                    android:hint="@string/entername"
+                    android:inputType="textCapWords"
+                    android:maxLines="3"
+                    android:padding="@dimen/_5sdp"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/_14ssp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_3sdp"
+                android:layout_marginBottom="@dimen/_3sdp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/_5sdp"
+                    android:text="@string/district"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/_13ssp" />
+
+                <TextView
+                    android:id="@+id/detaildistpost_rcvr"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:clickable="true"
+                    android:contextClickable="true"
+                    android:ellipsize="marquee"
+                    android:focusable="true"
+                    android:focusableInTouchMode="true"
+                    android:freezesText="true"
+                    android:marqueeRepeatLimit="marquee_forever"
+                    android:maxWidth="@dimen/_110sdp"
+                    android:minHeight="@dimen/_28sdp"
+                    android:scrollHorizontally="true"
+                    android:singleLine="true"
+                    android:text="@string/district1"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/_15ssp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_3sdp"
+                android:layout_marginBottom="@dimen/_3sdp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/_5sdp"
+                    android:text="@string/Upzila"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/_13ssp" />
+
+                <TextView
+                    android:id="@+id/detailupzilapost_rcvr"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:clickable="true"
+                    android:contextClickable="true"
+                    android:ellipsize="marquee"
+                    android:focusable="true"
+                    android:focusableInTouchMode="true"
+                    android:freezesText="true"
+                    android:marqueeRepeatLimit="marquee_forever"
+                    android:maxWidth="@dimen/_110sdp"
+                    android:minHeight="@dimen/_28sdp"
+                    android:scrollHorizontally="true"
+                    android:singleLine="true"
+                    android:text="@string/Upzila1"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/_15ssp" />
+            </LinearLayout>
+
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/postbtn_rcvr"
+                android:layout_width="@dimen/_85sdp"
+                android:layout_height="@dimen/_35sdp"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/_40sdp"
+                android:background="@drawable/postbtn"
+                android:gravity="center"
+                android:text="@string/post"
+                android:textColor="@color/common_google_signin_btn_text_dark_default" />
+
+        </LinearLayout>
+    </ScrollView>
+
+
+
+</LinearLayout>

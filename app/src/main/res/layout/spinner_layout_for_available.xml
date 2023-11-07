@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/_200sdp"
+    android:layout_height="@dimen/_70sdp"
+    android:layout_marginStart="@dimen/_50sdp"
+    android:layout_marginTop="@dimen/_5sdp"
+    android:ems="10"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    android:maxLines="2"
+    android:padding="@dimen/_12sdp"
+    android:textAlignment="center"
+    android:textColor="#E7023B"
+    android:textSize="@dimen/_14ssp"
+    android:textStyle="bold" />

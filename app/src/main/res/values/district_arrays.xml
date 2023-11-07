@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="allDistrict">
+        <item>Select Your District</item>
+        <item>Bagura(বগুড়া)</item>
+        <item>Bagerhat(বাগেরহাট)</item>
+        <item>Brahmanbaria(ব্রাহ্মণবাড়িয়া)</item>
+        <item>Bandarban(বান্দরবন)</item>
+        <item>Barguna(বরগুনা)</item>
+        <item>Barisal(বরিশাল)</item>
+        <item>Bhola(ভোলা)</item>
+        <item>Cumilla(কুমিল্লা)</item>
+        <item>Chittagong(চিটাগাং)</item>
+        <item>Cox\'s Bazar(কক্সবাজার)</item>
+        <item>Chandpur(চাঁদপুর)</item>
+        <item>Chuadanga(চুয়াডাঙ্গা)</item>
+        <item>Chapainawabganj(চাঁপাইনবাবগঞ্জ)</item>
+        <item>Dhaka(ঢাকা)</item>
+        <item>Dinajpur (দিনাজপুর)</item>
+        <item>Feni(ফেনী)</item>
+        <item>Faridpur(ফরিদপুর)</item>
+        <item>Gopalganj(গোপালগঞ্জ)</item>
+        <item>Gazipur(গাজীপুর)</item>
+        <item>Gaibandha(গাইবান্ধা)</item>
+        <item>Habiganj(হবিগঞ্জ)</item>
+        <item>Jhinaidah(ঝিনাইদাহ)</item>
+        <item>Jessore(যশোর)</item>
+        <item>Joypurhat(জয়পুরহাট)</item>
+        <item>Jhalakathi(ঝালকাঠী)</item>
+        <item>Jamalpur(জামালপুর)</item>
+        <item>Kushtia(কুষ্টিয়া)</item>
+        <item>Khulna(খুলনা)</item>
+        <item>Khagrachari(খাগড়াছড়ি)</item>
+        <item>Kishoreganj(কিশোরগঞ্জ)</item>
+        <item>Kurigram(কুড়িগ্রাম)</item>
+        <item>Lakshmipur(লক্ষ্মীপুর)</item>
+        <item>Lalmonirhat(লালমনিরহাট)</item>
+        <item>Mymensingh(ময়মনসিংহ)</item>
+        <item>Madaripur(মাদারীপুর)</item>
+        <item>Manikganj(মানিকগঞ্জ)</item>
+        <item>Munshiganj(মুন্সীগঞ্জ)</item>
+        <item>Moulavibazar(মৌলভীবাজার)</item>
+        <item>Magura(মাগুরা)</item>
+        <item>Meherpur(মেহেরপুর)</item>
+        <item>Norail(নড়াইল)</item>
+        <item>Noakhali(নোয়াখালী)</item>
+        <item>Naogaon(নওগাঁ)</item>
+        <item>Natore(নাটোর)</item>
+        <item>Narsingdi(নরসিংদী)</item>
+        <item>Netrokona(নেত্রকোনা)</item>
+        <item>Narayanganj(নারায়ণগঞ্জ)</item>
+        <item>Nilphamari(নীলফামারী)</item>
+        <item>Panchagarh(পঞ্চগড়)</item>
+        <item>Pabna(পাবনা)</item>
+        <item>Patuakhali(পটুয়াখালী)</item>
+        <item>Pirojpur(পিরোজপুর)</item>
+        <item>Rajshahi(রাজশাহী)</item>
+        <item>Rangpur(রংপুর)</item>
+        <item>Rajbari(রাজবাড়ী)</item>
+        <item>Rangamati(রাঙ্গামাটি)</item>
+        <item>Satkhira(সাতক্ষীরা)</item>
+        <item>Sunamganj(সুনামগঞ্জ)</item>
+        <item>Sylhet(সিলেট)</item>
+        <item>Shariyatpur(শরীয়তপুর)</item>
+        <item>Sirajganj(সিরাজগঞ্জ)</item>
+        <item>Sherpur(শেরপুর)</item>
+        <item>Tangail(টাঙ্গাইল)</item>
+        <item>Thakurgaon(ঠাকুরগাঁও)</item>
+
+    </string-array>
+
+    <string-array name="allDivision">
+        <item>Select Your Division</item>
+        <item>Rajshahi(রাজশাহী)</item>
+        <item>Sylhet(সিলেট)</item>
+        <item>Mymensingh(ময়মনসিংহ)</item>
+        <item>Barishal(বরিশাল)</item>
+        <item>Dhaka(ঢাকা)</item>
+        <item>Rangpur(রংপুর)</item>
+        <item>Chittagong(চট্টগ্রাম)</item>
+        <item>Khulna(খুলনা)</item>
+    </string-array>
+
+    <string-array name="dhaka_division">
+
+        <item>Dhaka(ঢাকা)</item>
+        <item>Faridpur(ফরিদপুর)</item>
+        <item>Gopalganj(গোপালগঞ্জ)</item>
+        <item>Gazipur(গাজীপুর)</item>
+        <item>Kishoreganj(কিশোরগঞ্জ)</item>
+        <item>Madaripur(মাদারীপুর)</item>
+        <item>Manikganj(মানিকগঞ্জ)</item>
+        <item>Munshiganj(মুন্সীগঞ্জ)</item>
+        <item>Narsingdi(নরসিংদী)</item>
+        <item>Narayanganj(নারায়ণগঞ্জ)</item>
+        <item>Rajbari(রাজবাড়ী)</item>
+        <item>Shariyatpur(শরীয়তপুর)</item>
+        <item>Tangail(টাঙ্গাইল)</item>
+    </string-array>
+
+    <string-array name="chittagong_division">
+        <item>Brahmanbaria(ব্রাহ্মণবাড়িয়া)</item>
+        <item>Bandarban(বান্দরবন)</item>
+        <item>Cumilla(কুমিল্লা)</item>
+        <item>Chittagong(চিটাগাং)</item>
+        <item>Cox\'s Bazar(কক্সবাজার)</item>
+        <item>Chandpur(চাঁদপুর)</item>
+        <item>Feni(ফেনী)</item>
+        <item>Khagrachari(খাগড়াছড়ি)</item>
+        <item>Lakshmipur(লক্ষ্মীপুর)</item>
+        <item>Noakhali(নোয়াখালী)</item>
+        <item>Rangamati(রাঙ্গামাটি)</item>
+
+
+    </string-array>
+
+
+    <string-array name="khulna_division">
+        <item>Bagerhat(বাগেরহাট)</item>
+        <item>Chuadanga(চুয়াডাঙ্গা)</item>
+        <item>Jhinaidah(ঝিনাইদাহ)</item>
+        <item>Jessore(যশোর)</item>
+        <item>Kushtia(কুষ্টিয়া)</item>
+        <item>Khulna(খুলনা)</item>
+        <item>Magura(মাগুরা)</item>
+        <item>Meherpur(মেহেরপুর)</item>
+        <item>Norail(নড়াইল)</item>
+        <item>Satkhira(সাতক্ষীরা)</item>
+    </string-array>
+
+    <string-array name="rangpur_division">
+        <item>Dinajpur (দিনাজপুর)</item>
+        <item>Gaibandha(গাইবান্ধা)</item>
+        <item>Kurigram(কুড়িগ্রাম)</item>
+        <item>Lalmonirhat(লালমনিরহাট)</item>
+        <item>Nilphamari(নীলফামারী)</item>
+        <item>Panchagarh(পঞ্চগড়)</item>
+        <item>Rangpur(রংপুর)</item>
+        <item>Thakurgaon(ঠাকুরগাঁও)</item>
+    </string-array>
+
+    <string-array name="rajshahi_division">
+        <item>Bagura(বগুড়া)</item>
+        <item>Chapainawabganj(চাঁপাইনবাবগঞ্জ)</item>
+        <item>Joypurhat(জয়পুরহাট)</item>
+        <item>Naogaon(নওগাঁ)</item>
+        <item>Natore(নাটোর)</item>
+        <item>Pabna(পাবনা)</item>
+        <item>Rajshahi(রাজশাহী)</item>
+        <item>Sirajganj(সিরাজগঞ্জ)</item>
+
+    </string-array>
+
+
+    <string-array name="barishal_division">
+        <item>Barguna(বরগুনা)</item>
+        <item>Barisal(বরিশাল)</item>
+        <item>Bhola(ভোলা)</item>
+        <item>Jhalakathi(ঝালকাঠী)</item>
+        <item>Patuakhali(পটুয়াখালী)</item>
+        <item>Pirojpur(পিরোজপুর)</item>
+    </string-array>
+
+
+
+    <string-array name="mymensingh_division">
+        <item>Jamalpur(জামালপুর)</item>
+        <item>Mymensingh(ময়মনসিংহ)</item>
+        <item>Netrokona(নেত্রকোনা)</item>
+        <item>Sherpur(শেরপুর)</item>
+
+    </string-array>
+
+    <string-array name="sylhet_division">
+
+        <item>Habiganj(হবিগঞ্জ)</item>
+        <item>Moulavibazar(মৌলভীবাজার)</item>
+        <item>Sunamganj(সুনামগঞ্জ)</item>
+        <item>Sylhet(সিলেট)</item>
+    </string-array>
+
+
+    <string-array name="cumilla">
+        <item>কুমিল্লা সিটি কর্পোরেশন</item>
+        <item>Adarsha Sadar(আদর্শ সদর)</item>
+        <item>Debidwar(দেবিদ্বার)</item>
+        <item>Burichang(বুড়িচং) </item>
+        <item>Barura(বরুড়া) </item>
+        <item>Brahmanpara(ব্রাহ্মণপাড়া) </item>
+        <item>Chandina(চান্দিনা) </item>
+        <item>Chauddagram(চৌদ্দগ্রাম) </item>
+        <item>Daudkandi(দাউদকান্দি) </item>
+        <item>Homna(হোমনা) </item>
+        <item> Lalmai(লালমাই) </item>
+        <item> Laksam(লাকসাম) </item>
+        <item> Muradnagar(মুরাদনগর) </item>
+        <item> Nangalkot(নাঙ্গলকোট) </item>
+        <item> Meghna(মেঘনা) </item>
+        <item> Manoharganj(মনোহরগঞ্জ) </item>
+        <item> Sadar Dakshin(সদর দক্ষিণ) </item>
+        <item> Titas(তিতাস) </item>
+
+    </string-array>
+
+    <string-array name="feni">
+
+        <item> Chagalnaiya(ছাগলনাইয়া) </item>
+        <item> Feni Sadar(ফেনী সদর) </item>
+        <item> Sonagazi(সোনাগাজী) </item>
+        <item> Fulgazi(ফুলগাজী) </item>
+        <item> Parshuram(পরশুরাম) </item>
+        <item> Daganbhuna(দাগনভূঞা) </item>
+    </string-array>
+
+    <string-array name="Brahmanbaria">
+
+        <item> Brahmanbaria Sadar(ব্রাহ্মণবাড়িয়া সদর) </item>
+        <item> Kasba(কসবা) </item>
+        <item> Nasirnagar(নাসিরনগর) </item>
+        <item> Sarail (সরাইল) </item>
+        <item> Ashuganj(আশুগঞ্জ) </item>
+        <item> Akhaura(আখাউড়া) </item>
+        <item> Nabinagar(নবীনগর) </item>
+        <item> Bancharampur(বাঞ্ছারামপুর) </item>
+        <item> Vijaynagar(বিজয়নগর) </item>
+    </string-array>
+
+    <string-array name="Rangamati">
+
+        <item> Rangamati Sadar(রাঙ্গামাটি সদর) </item>
+        <item> Kaptai(কাপ্তাই) </item>
+        <item> Kaukhali(কাউখালী) </item>
+        <item> Baghaichhari(বাঘাইছড়ি) </item>
+        <item> Barkal(বরকল) </item>
+        <item> Langadu(লংগদু) </item>
+        <item> Rajsthali(রাজস্থলী) </item>
+        <item> Bilaichhari(বিলাইছড়ি) </item>
+        <item> Jurachhari(জুরাছড়ি) </item>
+        <item> Naniyarchar(নানিয়ারচর) </item>
+
+    </string-array>
+
+    <string-array name="Noakhali">
+        <item> Noakhali Sadar(নোয়াখালী সদর) </item>
+        <item> Companyganj(কোম্পানীগঞ্জ) </item>
+        <item> Begumganj(বেগমগঞ্জ) </item>
+        <item> Hatia(হাতিয়া) </item>
+        <item> Subarnachar(সুবর্ণচর) </item>
+        <item> Kabirhat(কবিরহাট) </item>
+        <item> Senbagh(সেনবাগ) </item>
+        <item> Chatkhil(চাটখিল) </item>
+        <item> Sonaimuri(সোনাইমুড়ী) </item>
+
+    </string-array>
+
+    <string-array name="Chandpur">
+        <item>Haimchar(হাইমচর)</item>
+        <item>Kachua(কচুয়া)</item>
+        <item>Shahrasti(শাহরাস্তি)</item>
+        <item>Chandpur Sadar(চাঁদপুর সদর)</item>
+        <item>Matlab North(মতলব উত্তর)</item>
+        <item>Matlab South(মতলব দক্ষিণ)</item>
+        <item>Hajiganj(হাজীগঞ্জ)</item>
+        <item>Faridganj(ফরিদগঞ্জ)</item>
+    </string-array>
+
+
+    <string-array name="Lakshmipur">
+        <item>Lakshmipur Sadar(লক্ষ্মীপুর সদর)</item>
+        <item>Kamalnagar(কমলনগর)</item>
+        <item>Raipur(রায়পুর)</item>
+        <item>Ramgati(রামগতি)</item>
+        <item>Ramganj(রামগঞ্জ)</item>
+    </string-array>
+
+
+    <string-array name="Chittagong">
+        <item>চট্টগ্রাম সিটি কর্পোরেশন</item>
+        <item>Rangunia(রাঙ্গুনিয়া)</item>
+        <item>Sitakunda(সীতাকুন্ড)</item>
+        <item>Mirsarai(মীরসরাই)</item>
+        <item>Patia(পটিয়া)</item>
+        <item>Sandwip(সন্দ্বীপ)</item>
+        <item>Bashkhali(বাঁশখালী)</item>
+        <item>Boalkhali(বোয়ালখালী)</item>
+        <item>Anwara(আনোয়ারা)</item>
+        <item>Chandnaish(চন্দনাইশ)</item>
+        <item>Satkania(সাতকানিয়া)</item>
+        <item>Lohagara(লোহাগাড়া)</item>
+        <item>Hathazari(হাটহাজারী)</item>
+        <item>Fatikchhari(ফটিকছড়ি)</item>
+        <item>Raozan(রাউজান)</item>
+        <item>Karnafuli(কর্ণফুলী)</item>
+    </string-array>
+
+
+    <string-array name="CoxsBazar">
+        <item>Cox\'s Bazar Sadar(কক্সবাজার সদর)</item>
+        <item>Chakaria(চকরিয়া)</item>
+        <item>Kutubdia(কুতুবদিয়া)</item>
+        <item>Ukhia(উখিয়া)</item>
+        <item>Maheshkhali(মহেশখালী)</item>
+        <item>Pekua(পেকুয়া)</item>
+        <item>Ramu(রামু)</item>
+        <item>Teknaf(টেকনাফ)</item>
+    </string-array>
+
+
+    <string-array name="Khagrachhari">
+        <item>Khagrachhari Sadar(খাগড়াছড়ি সদর)</item>
+        <item>Dighinala(দিঘীনালা)</item>
+        <item>Panchhari(পানছড়ি)</item>
+        <item>Lakkhichhari(লক্ষীছড়ি)</item>
+        <item>Mahalchhari(মহালছড়ি)</item>
+        <item>Manikchhari(মানিকছড়ি)</item>
+        <item>Ramgarh(রামগড়)</item>
+        <item>Matiranga(মাটিরাঙ্গা)</item>
+        <item>Guimara(গুইমারা)</item>
+    </string-array>
+
+    <string-array name="Bandarban">
+        <item>Bandarban Sadar(বান্দরবান সদর)</item>
+        <item> Alikadam(আলীকদম)</item>
+        <item> Naikhyangchhari(নাইক্ষ্যংছড়ি)</item>
+        <item> Roangchhari(রোয়াংছড়ি)</item>
+        <item> Lama(লামা)</item>
+        <item> Ruma(রুমা)</item>
+        <item> Thanchi(থানচি)</item>
+    </string-array>
+    <string-array name="Sirajganj">
+        <item> Belkuchi(বেলকুচি)</item>
+        <item> Chowhali(চৌহালি)</item>
+        <item>Kamarkhand(কামারখন্দ)</item>
+        <item>Kazipur(কাজীপুর)</item>
+        <item>Raiganj(রায়গঞ্জ)</item>
+        <item>Shahjadpur(শাহজাদপুর)</item>
+        <item>Sirajganj Sadar(সিরাজগঞ্জ সদর)</item>
+        <item>Tarash(তাড়াশ)</item>
+        <item>Ullapara(উল্লাপাড়া)</item>
+    </string-array>
+
+    <string-array name="Pabna">
+        <item>Sujanagar(সুজানগর)</item>
+        <item>Ishwardi(ঈশ্বরদী)</item>
+        <item>Bhangura(ভাঙ্গুড়া)</item>
+        <item>Pabna Sadar(পাবনা সদর)</item>
+        <item>Bera(বেড়া)</item>
+        <item>Atgharia(আটঘরিয়া)</item>
+        <item>Chatmohar(চাটমোহর)</item>
+        <item>Sathia(সাঁথিয়া)</item>
+        <item>Faridpur(ফরিদপুর)</item>
+    </string-array>
+
+    <string-array name="Bogra">
+        <item>Kahalu(কাহালু)</item>
+        <item> Bogra Sadar(বগুড়া সদর)</item>
+        <item> Sariakandi(সারিয়াকান্দি)</item>
+        <item> Shajahanpur(শাজাহানপুর)</item>
+        <item> Dupchachinya(দুপচাচিঁয়া)</item>
+        <item> Adamdighi (আদমদিঘি)</item>
+        <item> Nandigram(নন্দিগ্রাম)</item>
+        <item> Sonatala(সোনাতলা)</item>
+        <item> Dhunat(ধুনট) </item>
+        <item>Gabtali(গাবতলী)</item>
+        <item> Sherpur(শেরপুর) </item>
+        <item> Shibganj(শিবগঞ্জ)</item>
+    </string-array>
+
+    <string-array name="Rajshahi">
+        <item>রাজশাহী সিটি কর্পোরেশন</item>
+        <item> Paba(পবা) </item>
+        <item> Durgapur(দুর্গাপুর) </item>
+        <item> Mohanpur(মোহনপুর) </item>
+        <item> Charghat(চারঘাট) </item>
+        <item> Puthia(পুঠিয়া)</item>
+        <item> Bagha(বাঘা)</item>
+        <item> Godagari(গোদাগাড়ী) </item>
+        <item> Tanore(তানোর)</item>
+        <item> Bagmara(বাগমারা) </item>
+    </string-array>
+
+    <string-array name="Natore">
+        <item> Natore Sadar(নাটোর সদর)</item>
+        <item> Singra(সিংড়া)</item>
+        <item> Baraigram(বড়াইগ্রাম)</item>
+        <item> Bagatipara(বাগাতিপাড়া)</item>
+        <item> Lalpur(লালপুর)</item>
+        <item> Gurudaspur(গুরুদাসপুর)</item>
+        <item> Naldanga(নলডাঙ্গা)</item>
+    </string-array>
+
+    <string-array name="Joypurhat">
+        <item>Akkelpur(আক্কেলপুর)</item>
+        <item> Kalai(কালাই)</item>
+        <item> Khetlal(ক্ষেতলাল) </item>
+        <item> Pachbibi(পাঁচবিবি)</item>
+        <item>Joypurhat Sadar(জয়পুরহাট সদর)</item>
+    </string-array>
+
+    <string-array name="Chapainawabganj">
+        <item>Chapainawabganj Sadar(চাঁপাইনবাবগঞ্জ সদর)</item>
+        <item> Gomstapur(গোমস্তাপুর)</item>
+        <item> Nachol(নাচোল)</item>
+        <item> Bholahat(ভোলাহাট)</item>
+        <item> Shibganj (শিবগঞ্জ)</item>
+    </string-array>
+
+    <string-array name="Naogaon">
+        <item> Mahadevpur(মহাদেবপুর) </item>
+        <item> Badalgachhi(বদলগাছী) </item>
+        <item> Patnitla(পত্নিতলা) </item>
+        <item> Dhamairhat(ধামইরহাট) </item>
+        <item> Niamatpur(নিয়ামতপুর) </item>
+        <item> Manda(মান্দা)</item>
+        <item>Atrai(আত্রাই) </item>
+        <item> Raninagar(রাণীনগর) </item>
+        <item>Naogaon Sadar(নওগাঁ সদর)</item>
+        <item> Porsha(পোরশা)</item>
+        <item>Sapahar(সাপাহার)</item>
+    </string-array>
+
+
+    <string-array name="Jessore">
+        <item> Manirampur(মণিরামপুর)</item>
+        <item> Abhaynagar(অভয়নগর)</item>
+        <item> Bagharpara(বাঘারপাড়া)</item>
+        <item> Chougachha(চৌগাছা)</item>
+        <item> Jhikargachha(ঝিকরগাছা)</item>
+        <item> Keshabpur(কেশবপুর)</item>
+        <item> Jessore Sadar(যশোর সদর)</item>
+        <item> Sharsha(শার্শা)</item>
+    </string-array>
+
+    <string-array name="Satkhira">
+        <item>Asashuni(আশাশুনি)</item>
+        <item> Debhata(দেবহাটা)</item>
+        <item> Kalaroa(কলারোয়া)</item>
+        <item> Satkhira Sadar(সাতক্ষীরা সদর)</item>
+        <item> Shyamnagar(শ্যামনগর)</item>
+        <item> Tala(তালা)</item>
+        <item> Kaliganj(কালিগঞ্জ)</item>
+    </string-array>
+
+
+    <string-array name="Meherpur">
+        <item> Mujibnagar(মুজিবনগর)</item>
+        <item> Meherpur Sadar(মেহেরপুর সদর)</item>
+        <item> Gangni(গাংনী)</item>
+    </string-array>
+
+
+    <string-array name="Narail">
+        <item>Narail Sadar(নড়াইল সদর)</item>
+        <item> Lohagara(লোহাগড়া)</item>
+        <item> Kalia(কালিয়া)</item>
+    </string-array>
+
+
+    <string-array name="Chuadanga">
+        <item>Chuadanga Sadar(চুয়াডাঙ্গা সদর)</item>
+        <item> Alamdanga(আলমডাঙ্গা)</item>
+        <item> Damurhuda(দামুড়হুদা)</item>
+        <item> Jivannagar(জীবননগর)</item>
+    </string-array>
+
+
+    <string-array name="Kushtia">
+        <item>Kushtia Sadar(কুষ্টিয়া সদর)</item>
+        <item> Kumarkhali(কুমারখালী)</item>
+        <item> Khoksa(খোকসা)</item>
+        <item> Mirpur(মিরপুর)</item>
+        <item> Daulatpur(দৌলতপুর)</item>
+        <item> Bheramara(ভেড়ামারা)</item>
+    </string-array>
+
+
+    <string-array name="Magura">
+        <item> Shalikha(শালিখা)</item>
+        <item> Sreepur(শ্রীপুর)</item>
+        <item> Magura Sadar(মাগুরা সদর)</item>
+        <item> Mohammadpur(মহম্মদপুর)</item>
+    </string-array>
+
+
+    <string-array name="Khulna">
+        <item>খুলনা সিটি কর্পোরেশন</item>
+        <item>Paikgachha(পাইকগাছা)</item>
+        <item> Fultala(ফুলতলা) </item>
+        <item> Dighlia(দিঘলিয়া)</item>
+        <item> Rupsha(রূপসা) </item>
+        <item> Terkhada(তেরখাদা) </item>
+        <item> Dumuria(ডুমুরিয়া)</item>
+        <item> Batiaghata(বটিয়াঘাটা)</item>
+        <item> Dakop(দাকোপ)</item>
+        <item> Koyra(কয়রা)</item>
+    </string-array>
+
+
+    <string-array name="Bagerhat">
+        <item> Fakirhat(ফকিরহাট)</item>
+        <item> Bagerhat Sadar(বাগেরহাট সদর)</item>
+        <item> Mollahat(মোল্লাহাট)</item>
+        <item> Sharankhola(শরণখোলা)</item>
+        <item> Rampal(রামপাল)</item>
+        <item> Morelganj(মোড়েলগঞ্জ)</item>
+        <item> Kachua(কচুয়া)</item>
+        <item> Mongla(মোংলা)</item>
+        <item> Chitalmari(চিতলমারী)</item>
+    </string-array>
+
+
+    <string-array name="Jhenaidah">
+        <item>Jhenaidah Sadar(ঝিনাইদহ সদর)</item>
+        <item> Shailkupa(শৈলকুপা)</item>
+        <item> Harinakundu(হরিণাকুন্ডু)</item>
+        <item> Kaliganj (কালীগঞ্জ)</item>
+        <item> Kotchandpur(কোটচাঁদপুর)</item>
+        <item> Maheshpur(মহেশপুর)</item>
+    </string-array>
+
+    <string-array name="Jhalokati">
+        <item>Jhalokati Sadar(ঝালকাঠি সদর)</item>
+        <item> Kathalia(কাঠালিয়া)</item>
+        <item> Nalchiti(নলছিটি)</item>
+        <item> Rajapur(রাজাপুর)</item>
+    </string-array>
+
+    <string-array name="Patuakhali">
+        <item>Baufal(বাউফল)</item>
+        <item> Patuakhali Sadar(পটুয়াখালী সদর)</item>
+        <item> Dumki(দুমকি)</item>
+        <item> Dashmina(দশমিনা)</item>
+        <item> Kalapara(কলাপাড়া)</item>
+        <item> Mirzaganj(মির্জাগঞ্জ)</item>
+        <item> Galachipa(গলাচিপা)</item>
+        <item> Rangabali(রাঙ্গাবালী)</item>
+    </string-array>
+
+    <string-array name="Pirojpur">
+        <item>Pirojpur Sadar(পিরোজপুর সদর)</item>
+        <item> Nazirpur(নাজিরপুর)</item>
+        <item> Kaukhali (কাউখালী)</item>
+        <item> Vandaria(ভান্ডারিয়া)</item>
+        <item> Mathbaria(মঠবাড়ীয়া)</item>
+        <item> Nesarabad(নেছারাবাদ)</item>
+        <item> Indurkani(ইন্দুরকানী)</item>
+    </string-array>
+
+    <string-array name="Barisal">
+        <item>বরিশাল সিটি কর্পোরেশন</item>
+        <item> Barisal Sadar(বরিশাল সদর)</item>
+        <item> Bakerganj(বাকেরগঞ্জ)</item>
+        <item> Babuganj(বাবুগঞ্জ)</item>
+        <item> Wazirpur(উজিরপুর)</item>
+        <item> Banaripara(বানারীপাড়া)</item>
+        <item> Gournadi(গৌরনদী)</item>
+        <item> Agailjhara(আগৈলঝাড়া)</item>
+        <item> Mehendiganj(মেহেন্দিগঞ্জ) </item>
+        <item> Muladi(মুলাদী)</item>
+        <item> Hijla(হিজলা)</item>
+    </string-array>
+
+    <string-array name="Bhola">
+        <item>Vola Sadar(ভোলা সদর)</item>
+        <item> Borhan Uddin(বোরহান উদ্দিন)</item>
+        <item> Char Fashion(চরফ্যাশন)</item>
+        <item> Daulatkhan(দৌলতখান)</item>
+        <item> Monpura(মনপুরা)</item>
+        <item>Tajumuddin(তজুমদ্দিন)</item>
+        <item>Lalmohan(লালমোহন)</item>
+    </string-array>
+
+    <string-array name="Barguna">
+        <item>Amtali(আমতলী)</item>
+        <item> Barguna Sadar(বরগুনা সদর)</item>
+        <item> Betagi(বেতাগী)</item>
+        <item> Bamna(বামনা)</item>
+        <item> Patharghata(পাথরঘাটা)</item>
+        <item> Taltali(তালতলি)</item>
+    </string-array>
+
+    <string-array name="Sylhet">
+        <item>সিলেট সিটি কর্পোরেশন</item>
+        <item> Balaganj(বালাগঞ্জ)</item>
+        <item> Beanibazar(বিয়ানীবাজার)</item>
+        <item> Bishwanath(বিশ্বনাথ)</item>
+        <item> Companyganj(কোম্পানীগঞ্জ)</item>
+        <item> Fenchuganj(ফেঞ্চুগঞ্জ)</item>
+        <item> Golapganj(গোলাপগঞ্জ)</item>
+        <item> Gowainghat(গোয়াইনঘাট)</item>
+        <item> Jaintapur(জৈন্তাপুর)</item>
+        <item> Kanaighat(কানাইঘাট)</item>
+        <item> Sylhet Sadar(সিলেট সদর)</item>
+        <item> Zakiganj(জকিগঞ্জ)</item>
+        <item> South Surma(দক্ষিণ সুরমা)</item>
+        <item> Osmaninagar(ওসমানীনগর)</item>
+    </string-array>
+
+    <string-array name="Moulvibazar">
+        <item> Baralekha(বড়লেখা)</item>
+        <item> Kamalganj(কমলগঞ্জ)</item>
+        <item> Kulaura(কুলাউড়া)</item>
+        <item> Moulvibazar Sadar(মৌলভীবাজার সদর)</item>
+        <item> Rajnagar(রাজনগর)</item>
+        <item> Srimangal(শ্রীমঙ্গল)</item>
+        <item> Juri(জুড়ী)</item>
+    </string-array>
+
+    <string-array name="Habiganj">
+        <item> Nabiganj(নবীগঞ্জ)</item>
+        <item> Bahubal(বাহুবল)</item>
+        <item> Ajmiriganj(আজমিরীগঞ্জ)</item>
+        <item> Baniachang(বানিয়াচং)</item>
+        <item> Lakhai(লাখাই)</item>
+        <item> Chunarughat(চুনারুঘাট)</item>
+        <item> Habiganj Sadar(হবিগঞ্জ সদর)</item>
+        <item>Madhabpur(মাধবপুর) </item>
+        <item> Shayestaganj(শায়েস্তাগঞ্জ)</item>
+    </string-array>
+
+    <string-array name="Sunamganj">
+        <item>Sunamganj Sadar(সুনামগঞ্জ সদর)</item>
+        <item> South Sunamganj(দক্ষিণ সুনামগঞ্জ)</item>
+        <item> Bishwambharpur(বিশ্বম্ভরপুর)</item>
+        <item> Chhatak(ছাতক)</item>
+        <item> Jagannathpur(জগন্নাথপুর)</item>
+        <item> Doarabazar(দোয়ারাবাজার)</item>
+        <item> Tahirpur(তাহিরপুর)</item>
+        <item> Dharmapasha(ধর্মপাশা)</item>
+        <item> Jamalganj(জামালগঞ্জ)</item>
+        <item> Shalla(শাল্লা)</item>
+        <item> Dirai(দিরাই)</item>
+    </string-array>
+
+    <string-array name="Narsingdi">
+        <item> Belabo(বেলাবো)</item>
+        <item> Manohardi(মনোহরদী)</item>
+        <item> Narsingdi Sadar(নরসিংদী সদর)</item>
+        <item> Palash(পলাশ)</item>
+        <item> Raipura(রায়পুরা)</item>
+        <item> Shibpur(শিবপুর)</item>
+    </string-array>
+
+    <string-array name="Gazipur">
+        <item>গাজীপুর সিটি কর্পোরেশন</item>
+        <item>Kaliganj ( কালীগঞ্জ )</item>
+        <item> Kaliakair(কালিয়াকৈর)</item>
+        <item> Kapasia(কাপাসিয়া)</item>
+        <item> Gazipur Sadar(গাজীপুর সদর)</item>
+        <item> Sreepur(শ্রীপুর)</item>
+    </string-array>
+
+
+    <string-array name="Shariatpur">
+        <item> Shariatpur Sadar(শরিয়তপুর সদর)</item>
+        <item> Naria(নড়িয়া)</item>
+        <item> Jajira(জাজিরা)</item>
+        <item> Gosairhat(গোসাইরহাট)</item>
+        <item> Vedarganj(ভেদরগঞ্জ)</item>
+        <item> Damudya(ডামুড্যা)</item>
+    </string-array>
+
+    <string-array name="Narayanganj">
+        <item>নারায়ণগঞ্জ সিটি কর্পোরেশন</item>
+        <item>Araihazar(আড়াইহাজার)</item>
+        <item> Bandar(বন্দর) </item>
+        <item> Narayanganj Sadar(নারায়নগঞ্জ সদর)</item>
+        <item> Rupganj(রূপগঞ্জ) </item>
+        <item> Sonargaon(সোনারগাঁ)</item>
+    </string-array>
+
+    <string-array name="Tangail">
+        <item> Basail(বাসাইল)</item>
+        <item> Bhuapur(ভুয়াপুর)</item>
+        <item> Delduar(দেলদুয়ার)</item>
+        <item> Ghatail(ঘাটাইল)</item>
+        <item> Gopalpur(গোপালপুর)</item>
+        <item> Madhupur(মধুপুর)</item>
+        <item> Mirzapur(মির্জাপুর)</item>
+        <item> Nagarpur(নাগরপুর)</item>
+        <item> Sakhipur(সখিপুর)</item>
+        <item> Tangail Sadar(টাঙ্গাইল সদর)</item>
+        <item> Kalihati(কালিহাতী)</item>
+        <item> Dhanbari(ধনবাড়ী)</item>
+    </string-array>
+
+    <string-array name="Kishoreganj">
+        <item> Itna(ইটনা)</item>
+        <item> Katiadi(কটিয়াদী)</item>
+        <item> Bhairab(ভৈরব)</item>
+        <item> Tarail(তাড়াইল)</item>
+        <item> Hoshenpur(হোসেনপুর)</item>
+        <item> Pakundia(পাকুন্দিয়া)</item>
+        <item> Kuliyarchar(কুলিয়ারচর)</item>
+        <item> Kishoreganj Sadar(কিশোরগঞ্জ সদর)</item>
+        <item> Karimganj(করিমগঞ্জ)</item>
+        <item> Bajitpur(বাজিতপুর)</item>
+        <item> Ashtagram(অষ্টগ্রাম)</item>
+        <item> Mithamin(মিঠামইন)</item>
+        <item> Nikli(নিকলী)</item>
+    </string-array>
+
+    <string-array name="Manikganj">
+        <item> Harirampur(হরিরামপুর) </item>
+        <item>Saturia(সাটুরিয়া)</item>
+        <item> Manikganj Sadar(মানিকগঞ্জ সদর)</item>
+        <item> Ghior(ঘিওর)</item>
+        <item> Shibalaya(শিবালয়)</item>
+        <item> Daulatpur (দৌলতপুর)</item>
+        <item> Singair(সিংগাইর)</item>
+    </string-array>
+
+    <string-array name="Dhaka">
+        <item>ঢাকা দক্ষিণ সিটি কর্পোরেশন</item>
+        <item>ঢাকা উত্তর সিটি কর্পোরেশন</item>
+        <item> Savar(সাভার)</item>
+        <item> Dhamrai(ধামরাই)</item>
+        <item> Keraniganj(কেরাণীগঞ্জ)</item>
+        <item> Nawabganj (নবাবগঞ্জ)</item>
+        <item> Dohar(দোহার)</item>
+    </string-array>
+
+    <string-array name="Munshiganj">
+        <item> Munshiganj Sadar(মুন্সিগঞ্জ সদর)</item>
+        <item> Srinagar(শ্রীনগর)</item>
+        <item> Sirajdikhan(সিরাজদিখান)</item>
+        <item> Louhjong(লৌহজং)</item>
+        <item> Gazaria(গজারিয়া)</item>
+        <item> Tongibari(টংগীবাড়ি)</item>
+    </string-array>
+
+    <string-array name="Rajbari">
+        <item> Rajbari Sadar(রাজবাড়ী সদর)</item>
+        <item> Goalanda(গোয়ালন্দ)</item>
+        <item> Pangsha(পাংশা)</item>
+        <item> Baliakandi(বালিয়াকান্দি)</item>
+        <item> Kalukhali(কালুখালী)</item>
+    </string-array>
+    <string-array name="Madaripur">
+        <item> Madaripur Sadar(মাদারীপুর সদর)</item>
+        <item> Shibchar(শিবচর)</item>
+        <item> Kalkini(কালকিনি)</item>
+        <item> Rajoir(রাজৈর)</item>
+    </string-array>
+
+    <string-array name="Gopalganj">
+        <item> Gopalganj Sadar(গোপালগঞ্জ সদর)</item>
+        <item> Kashiani(কাশিয়ানী)</item>
+        <item> Tungipara(টুংগীপাড়া)</item>
+        <item> Kotalipara(কোটালীপাড়া)</item>
+        <item> Muksudpur(মুকসুদপুর)</item>
+    </string-array>
+
+    <string-array name="Faridpur">
+        <item> Faridpur Sadar(ফরিদপুর সদর)</item>
+        <item> Alfadanga(আলফাডাঙ্গা)</item>
+        <item> Boalmari(বোয়ালমারী)</item>
+        <item> Sadarpur(সদরপুর)</item>
+        <item> Nagarkanda(নগরকান্দা)</item>
+        <item> Vanga(ভাঙ্গা)</item>
+        <item> Charbhadrasan(চরভদ্রাসন)</item>
+        <item> Madhukhali(মধুখালী)</item>
+        <item> Saltha(সালথা)</item>
+    </string-array>
+    <string-array name="Panchagarh">
+        <item> Panchagarh Sadar(পঞ্চগড় সদর)</item>
+        <item> Debiganj(দেবীগঞ্জ)</item>
+        <item> Boda(বোদা)</item>
+        <item> Atwari(আটোয়ারী)</item>
+        <item> Tetulia(তেতুলিয়া)</item>
+    </string-array>
+
+    <string-array name="Dinajpur">
+        <item> Nawabganj(নবাবগঞ্জ)</item>
+        <item> Birganj(বীরগঞ্জ)</item>
+        <item> Ghoraghat(ঘোড়াঘাট)</item>
+        <item> Birampur(বিরামপুর)</item>
+        <item> Parbatipur(পার্বতীপুর)</item>
+        <item> Bochaganj(বোচাগঞ্জ)</item>
+        <item> Kaharol(কাহারোল)</item>
+        <item> Fulbari(ফুলবাড়ী)</item>
+        <item> Dinajpur Sadar(দিনাজপুর সদর)</item>
+        <item> Hakimpur(হাকিমপুর)</item>
+        <item> Khansama(খানসামা)</item>
+        <item> Biral(বিরল) </item>
+        <item> Chirirbandar(চিরিরবন্দর)</item>
+    </string-array>
+
+    <string-array name="Lalmonirhat">
+        <item> Lalmonirhat Sadar(লালমনিরহাট সদর)</item>
+        <item> Kaliganj(কালীগঞ্জ)</item>
+        <item> Hatibandha(হাতীবান্ধা)</item>
+        <item> Patgram(পাটগ্রাম)</item>
+        <item> Aditmari(আদিতমারী)</item>
+    </string-array>
+
+    <string-array name="Nilphamari">
+        <item> Nilphamari Sadar(নীলফামারী সদর)</item>
+        <item> Syedpur(সৈয়দপুর)</item>
+        <item> Domar(ডোমার)</item>
+        <item> Dimla(ডিমলা)</item>
+        <item> Jaldhaka(জলঢাকা)</item>
+        <item> Kishoreganj(কিশোরগঞ্জ)</item>
+
+    </string-array>
+
+    <string-array name="Gaibandha">
+        <item> Sadullapur(সাদুল্লাপুর)</item>
+        <item> Gaibandha Sadar (গাইবান্ধা সদর)</item>
+        <item> Palashbari(পলাশবাড়ী)</item>
+        <item> Saghata(সাঘাটা)</item>
+        <item>Gobindganj (গোবিন্দগঞ্জ)</item>
+        <item> Sundarganj(সুন্দরগঞ্জ)</item>
+        <item> Fulchhari(ফুলছড়ি)</item>
+    </string-array>
+
+    <string-array name="Thakurgaon">
+        <item>Thakurgaon Sadar(ঠাকুরগাঁও সদর)</item>
+        <item>Pirganj (পীরগঞ্জ)</item>
+        <item> Ranishankail(রাণীশংকৈল)</item>
+        <item> Haripur(হরিপুর)</item>
+        <item> Baliadangi(বালিয়াডাঙ্গী)</item>
+
+    </string-array>
+
+    <string-array name="Rangpur">
+        <item>রংপুর সিটি কর্পোরেশন</item>
+        <item>Rangpur Sadar(রংপুর সদর)</item>
+        <item>Gangachara(গংগাচড়া)</item>
+        <item>Taraganj(তারাগঞ্জ)</item>
+        <item> Badarganj(বদরগঞ্জ)</item>
+        <item>Mithapukur(মিঠাপুকুর)</item>
+        <item>Pirganj(পীরগঞ্জ)</item>
+        <item> Kaunia(কাউনিয়া)</item>
+        <item>Pirgachha(পীরগাছা)</item>
+    </string-array>
+
+    <string-array name="Kurigram">
+        <item> Kurigram Sadar(কুড়িগ্রাম সদর)</item>
+        <item>Nageshwari (নাগেশ্বরী)</item>
+        <item>Bhurungamari (ভুরুঙ্গামারী)</item>
+        <item> Fulbari (ফুলবাড়ী)</item>
+        <item> Rajarhat(রাজারহাট)</item>
+        <item>Ulipur (উলিপুর)</item>
+        <item> Chilmari(চিলমারী)</item>
+        <item>Char Rajibpur(চর রাজিবপুর)</item>
+        <item> Roumari(রৌমারী)</item>
+    </string-array>
+
+    <string-array name="Sherpur">
+        <item> Sherpur Sadar (শেরপুর সদর)</item>
+        <item>Nalitabari (নালিতাবাড়ী)</item>
+        <item>Sreebardi (শ্রীবরদী)</item>
+        <item> Nakla(নকলা)</item>
+        <item> Jhenaigati(ঝিনাইগাতী)</item>
+    </string-array>
+
+    <string-array name="Mymensingh">
+        <item>ময়মনসিংহ সিটি কর্পোরেশন</item>
+        <item> Fulbaria (ফুলবাড়ীয়া)</item>
+        <item>Trishal(ত্রিশাল)</item>
+        <item>Bhaluka (ভালুকা)</item>
+        <item> Muktagachha(মুক্তাগাছা)</item>
+        <item>Mymensingh Sadar (ময়মনসিংহ সদর)</item>
+        <item> Dhobaura(ধোবাউড়া)</item>
+        <item> Phulpur(ফুলপুর)</item>
+        <item> Haluaghat(হালুয়াঘাট)</item>
+        <item>Gauripur (গৌরীপুর)</item>
+        <item>Gafargaon (গফরগাঁও)</item>
+        <item>Ishwarganj (ঈশ্বরগঞ্জ)</item>
+        <item>Nandail (নান্দাইল)</item>
+        <item> Tarakanda(তারাকান্দা)</item>
+    </string-array>
+
+    <string-array name="Jamalpur">
+
+        <item> Jamalpur Sadar (জামালপুর সদর)</item>
+        <item> Melandah (মেলান্দহ)</item>
+        <item>Islampur (ইসলামপুর)</item>
+        <item>Dewanganj (দেওয়ানগঞ্জ)</item>
+        <item> Sarishabari(সরিষাবাড়ী)</item>
+        <item>Madarganj (মাদারগঞ্জ)</item>
+        <item>Bakshiganj (বকশীগঞ্জ)</item>
+    </string-array>
+
+
+    <string-array name="Netrokona">
+        <item>Netrokona Sadar(নেত্রকোণা সদর)</item>
+        <item>Atpara (আটপাড়া)</item>
+        <item> Barhatta(বারহাট্টা)</item>
+        <item> Durgapur (দুর্গাপুর)</item>
+        <item>Kalmakanda (কলমাকান্দা)</item>
+        <item> Kendua(কেন্দুয়া)</item>
+        <item>Madan(মদন)</item>
+        <item> Mohanganj(মোহনগঞ্জ)</item>
+        <item>Purbadhala (পূর্বধলা)</item>
+        <item>Khaliajuri (খালিয়াজুরী)</item>
+
+    </string-array>
+
+
+    <string-array name="defaultdistrict">
+        <item>Select Your District</item>
+    </string-array>
+    <string-array name="defaultupzilla">
+        <item>Select Your Upzila</item>
+    </string-array>
+
+    <string-array name="defaultunion">
+        <item>Select Your Union</item>
+    </string-array>
+
+</resources>

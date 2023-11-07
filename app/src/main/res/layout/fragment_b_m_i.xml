@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/col10"
+    tools:context=".fragments.BMIFragment">
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:paddingBottom="@dimen/_20sdp"
+    android:layout_height="wrap_content"
+    >
+
+
+    <RelativeLayout
+        android:id="@+id/center_horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true" />
+
+    <RelativeLayout
+        android:id="@+id/center_vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true" />
+
+    <RelativeLayout
+        android:id="@+id/male"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_above="@id/height_layout"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="35dp"
+        android:layout_toStartOf="@id/center_vertical"
+        android:background="@drawable/card_back_male_female">
+
+        <ImageView
+            android:layout_width="170px"
+            android:layout_height="170px"
+            android:layout_above="@+id/textMale"
+            android:layout_centerInParent="true"
+            android:layout_marginBottom="20dp"
+            android:src="@drawable/male" />
+
+        <TextView
+            android:id="@+id/textMale"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="10dp"
+            android:text="Male"
+            android:textAlignment="center"
+            android:textColor="@color/dark_green"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/female"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_above="@id/height_layout"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="35dp"
+        android:layout_toEndOf="@id/center_vertical"
+        android:background="@drawable/card_back_male_female">
+
+        <ImageView
+            android:layout_width="170px"
+            android:layout_height="170px"
+            android:layout_above="@+id/textFemale"
+            android:layout_centerInParent="true"
+            android:layout_marginBottom="20dp"
+            android:src="@drawable/female" />
+
+        <TextView
+            android:id="@+id/textFemale"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="10dp"
+            android:text="Female"
+            android:textAlignment="center"
+            android:textColor="@color/dark_green"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:id="@+id/weight"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_below="@id/height_layout"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="470dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="20dp"
+        android:layout_toStartOf="@id/center_vertical"
+        android:background="@drawable/card_back">
+
+        <TextView
+            android:id="@+id/text_weight"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:text="@string/weight"
+            android:textAlignment="center"
+            android:textColor="@color/dark_green"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/current_weight"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/text_weight"
+            android:layout_marginTop="25dp"
+            android:text="50"
+            android:textAlignment="center"
+            android:textColor="@color/dark_green"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="20dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/card_back_plus_minus">
+
+            <ImageView
+                android:id="@+id/decrement_weight"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/minus" />
+
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginEnd="20dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/card_back_plus_minus">
+
+            <ImageView
+                android:id="@+id/increment_weight"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/add" />
+
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/ageRL"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_below="@id/height_layout"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="470dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="@dimen/_10sdp"
+        android:layout_toEndOf="@id/center_vertical"
+        android:background="@drawable/card_back">
+
+        <TextView
+            android:id="@+id/text_age"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:text="@string/age"
+            android:textAlignment="center"
+            android:textColor="@color/dark_green"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/current_age"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/text_age"
+            android:layout_marginTop="25dp"
+            android:text="20"
+            android:textAlignment="center"
+            android:textColor="@color/dark_green"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="20dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/card_back_plus_minus">
+
+            <ImageView
+                android:id="@+id/decrement_age"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/minus" />
+
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginEnd="20dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/card_back_plus_minus">
+
+            <ImageView
+                android:id="@+id/increment_age"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/add" />
+
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:id="@+id/height_layout"
+        android:layout_width="340dp"
+        android:layout_height="150dp"
+        android:layout_above="@id/center_horizontal"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="25dp"
+        android:layout_marginEnd="25dp"
+        android:layout_marginBottom="-418dp"
+        android:background="@drawable/card_back">
+
+        <View
+            android:layout_width="@dimen/_2sdp"
+            android:layout_height="@dimen/_50sdp"
+            android:layout_alignParentStart="true"
+            android:layout_marginLeft="@dimen/_130sdp"
+            android:layout_marginTop="@dimen/_45sdp"
+            android:background="@color/dark_green" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:text="@string/height"
+            android:textAlignment="center"
+            android:textColor="@color/dark_green"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/current_height_feet"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginLeft="@dimen/_10sdp"
+            android:layout_marginBottom="50dp"
+            android:text="00"
+            android:textColor="@color/dark_green"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_marginLeft="@dimen/_50sdp"
+            android:layout_marginTop="@dimen/_45sdp"
+            android:text="@string/feet"
+            android:textColor="@color/dark_green"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+
+        <SeekBar
+            android:id="@+id/seekbarFeet"
+            android:layout_width="@dimen/_110sdp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginBottom="20dp"
+            android:progressTint="@color/dark_green"
+            android:thumbTint="@color/dark_green" />
+
+        <TextView
+            android:id="@+id/current_height_Inch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginRight="@dimen/_75sdp"
+            android:layout_marginBottom="50dp"
+            android:text="00"
+            android:textColor="@color/dark_green"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="@dimen/_45sdp"
+            android:layout_marginRight="@dimen/_20sdp"
+            android:text="@string/inch"
+            android:textColor="@color/dark_green"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+
+        <SeekBar
+            android:id="@+id/seekbarInch"
+            android:layout_width="@dimen/_110sdp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginBottom="20dp"
+            android:progressTint="@color/dark_green"
+            android:thumbTint="@color/dark_green" />
+
+    </RelativeLayout>
+
+    <android.widget.Button
+        android:id="@+id/calculate_bmi"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_below="@+id/ageRL"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="30dp"
+        android:layout_marginEnd="30dp"
+         android:layout_marginBottom="@dimen/_10sdp"
+        android:background="@drawable/card_back"
+        android:text="@string/calculate_your_bmi"
+        android:textAllCaps="false"
+        android:textColor="@color/dark_green"
+        android:textSize="@dimen/_18ssp"
+        android:textStyle="bold">
+
+    </android.widget.Button>
+
+</RelativeLayout>
+
+
+</ScrollView>

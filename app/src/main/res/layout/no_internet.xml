@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/no_internet"
+    android:orientation="vertical"
+    android:padding="@dimen/_10sdp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tvTitleNoNet"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/_19sdp"
+            android:text="@string/something_went_wrong"
+            android:textColor="@color/col17"
+            android:textSize="25sp"
+            android:textStyle="normal" />
+
+
+        <TextView
+            android:id="@+id/tvDesNoNet"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/_19sdp"
+            android:layout_marginTop="2dp"
+            android:layout_marginBottom="2dp"
+            android:text="It seems that there is no active internet connection..."
+            android:textColor="@color/col17"
+            android:textSize="@dimen/_14ssp"
+            android:textStyle="normal" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/_65sdp"
+            android:padding="@dimen/_5sdp">
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/try_btn"
+                android:layout_width="@dimen/_130sdp"
+                android:layout_height="@dimen/_50sdp"
+                android:layout_gravity="center"
+                android:background="@drawable/btn_shape"
+                android:clickable="true"
+                android:text="@string/tryagn"
+                android:layout_marginRight="@dimen/_5sdp"
+                android:textAllCaps="false"
+                android:textColor="@color/white"
+                android:textSize="@dimen/_14ssp" />
+
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/connect_btn"
+                android:layout_width="@dimen/_130sdp"
+                android:layout_height="@dimen/_50sdp"
+                android:layout_gravity="center"
+                android:background="@drawable/btn_shape"
+                android:clickable="true"
+                android:text="@string/connect"
+                android:textAllCaps="false"
+                android:textColor="@color/white"
+                android:textSize="@dimen/_14ssp" />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

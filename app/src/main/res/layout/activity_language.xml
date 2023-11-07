@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    tools:context=".activities.LanguageActivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/profile_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?actionBarSize"
+        android:background="@color/status_navi_color"
+        android:elevation="@dimen/_15sdp"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        >
+        <ImageView
+            android:id="@+id/backlangu"
+            android:layout_width="@dimen/_25sdp"
+            android:layout_height="@dimen/_25sdp"
+            android:src="@drawable/arrow_back2"
+            app:tint="@color/white" />
+        <TextView
+            android:id="@+id/selectlangtoolbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/_20ssp"
+            android:text="@string/selectlangu"
+            android:textColor="@color/white"
+            android:padding="@dimen/_8sdp"
+           />
+
+    </androidx.appcompat.widget.Toolbar>
+
+<TextView
+    android:id="@+id/nowtv"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textSize="@dimen/_20ssp"
+    android:text="@string/now_language"
+    android:textColor="#002133"
+    android:layout_marginStart="@dimen/_10sdp"
+ android:paddingStart="@dimen/_10sdp"
+    android:layout_marginTop="@dimen/_28sdp"/>
+
+
+    <RadioGroup
+        android:id="@+id/radiogrplangu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="@dimen/_8sdp"
+        android:layout_margin="@dimen/_8sdp"
+        >
+
+        <RadioButton
+            android:id="@+id/radioEnglish"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/english"
+            android:textStyle="bold"
+            android:layout_gravity="center_vertical"
+            android:textSize="@dimen/_16ssp"
+            android:padding="@dimen/_8sdp"
+
+            android:buttonTint="#F40606"/>
+
+        <RadioButton
+            android:id="@+id/radioBangla"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/bangla"
+            android:textStyle="bold"
+
+            android:layout_gravity="center_vertical"
+            android:textSize="@dimen/_16ssp"
+            android:padding="@dimen/_8sdp"
+            android:buttonTint="#F40606"/>
+
+    </RadioGroup>
+
+
+</LinearLayout>

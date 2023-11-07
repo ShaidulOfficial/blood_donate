@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ImageView
+        android:layout_width="@dimen/_170sdp"
+        android:layout_height="@dimen/_170sdp"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@+id/sign_in_phone_btn"
+        android:layout_marginTop="@dimen/_20sdp"
+        android:src="@drawable/roktologo" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/create_new_account_btn"
+        android:layout_width="@dimen/_180sdp"
+        android:layout_height="@dimen/_32sdp"
+        android:layout_centerInParent="true"
+        android:layout_marginVertical="@dimen/_15sdp"
+        android:background="@drawable/crete_new_account_border"
+        android:elevation="@dimen/_18sdp"
+        android:letterSpacing=".12"
+        android:text="@string/create_new_account"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textColor="@color/white" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/sign_in_phone_btn"
+        android:layout_width="@dimen/_180sdp"
+        android:layout_height="@dimen/_32sdp"
+        android:layout_above="@+id/sign_in_google_btn"
+        android:layout_centerInParent="true"
+        android:layout_marginVertical="@dimen/_15sdp"
+        android:background="@drawable/signin_phone_border"
+        android:drawableLeft="@drawable/call_20"
+        android:drawableTint="@color/bgclr"
+        android:elevation="@dimen/_18sdp"
+        android:letterSpacing=".12"
+        android:padding="@dimen/_5sdp"
+        android:text="@string/fui_sign_in_with_phone"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textColor="@color/white" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/sign_in_google_btn"
+        android:layout_width="@dimen/_180sdp"
+        android:layout_height="@dimen/_32sdp"
+        android:layout_above="@+id/create_new_account_btn"
+        android:layout_centerInParent="true"
+        android:layout_marginVertical="@dimen/_15sdp"
+        android:background="@drawable/signin_google_border"
+        android:drawableLeft="@drawable/google_icon"
+        android:elevation="@dimen/_18sdp"
+        android:letterSpacing=".12"
+        android:padding="@dimen/_5sdp"
+        android:text="@string/fui_sign_in_with_google"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textColor="@color/txtclr" />
+
+</RelativeLayout>

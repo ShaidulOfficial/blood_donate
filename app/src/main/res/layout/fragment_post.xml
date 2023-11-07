@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+        android:background="@color/bgclr"
+    tools:context=".fragments.PostFragment">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <LinearLayout
+            android:id="@+id/donorAchiev"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/acheivement_toolbar"
+            android:layout_marginTop="@dimen/_15sdp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/donateInfo"
+                android:layout_width="@dimen/_200sdp"
+                android:layout_height="@dimen/_30sdp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="@dimen/_10sdp"
+                android:background="@drawable/achievmentbtn"
+                android:gravity="center"
+                android:text="Have you donated today?"
+                android:textColor="@color/white"
+                android:textSize="@dimen/_15ssp" />
+
+            <LinearLayout
+                android:id="@+id/yesnolayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:gravity="center_horizontal"
+                android:orientation="horizontal"
+                android:visibility="visible">
+
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/btnYes"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="@dimen/_24sdp"
+                    android:background="@drawable/square_border2"
+                    android:foreground="@drawable/toucheffect3"
+                    android:text="@string/yes" />
+
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/btnNo"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/square_border2"
+                    android:foreground="@drawable/toucheffect3"
+                    android:text="@string/no" />
+
+            </LinearLayout>
+
+
+            <TextView
+                android:id="@+id/nextDonate"
+                android:layout_width="@dimen/_120sdp"
+                android:layout_height="@dimen/_120sdp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="@dimen/_10sdp"
+                android:background="@drawable/circle"
+                android:backgroundTint="@color/acheivementcolor"
+                android:gravity="center"
+                android:text="@string/_120_days"
+                android:textColor="@color/white"
+                android:textSize="@dimen/_19ssp"
+                android:visibility="gone" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:padding="20dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="@dimen/_100sdp"
+                        android:layout_height="@dimen/_30sdp"
+                        android:layout_marginBottom="@dimen/_8sdp"
+                        android:background="@drawable/achievmentbtn"
+                        android:gravity="center"
+                        android:text="@string/total_donated"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/_14ssp" />
+
+                    <TextView
+                        android:id="@+id/settotalDonate"
+                        android:layout_width="@dimen/_130sdp"
+                        android:layout_height="@dimen/_130sdp"
+                        android:background="@drawable/circle"
+                        android:backgroundTint="@color/acheivementcolor"
+                        android:gravity="center"
+                        android:text="@string/_1_times"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/_16sdp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="@dimen/_100sdp"
+                        android:layout_height="@dimen/_30sdp"
+                        android:layout_marginBottom="@dimen/_8sdp"
+                        android:background="@drawable/achievmentbtn"
+                        android:gravity="center"
+                        android:text="@string/last_donated"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/_14ssp" />
+
+                    <TextView
+                        android:id="@+id/setLastDonate"
+                        android:layout_width="@dimen/_130sdp"
+                        android:layout_height="@dimen/_130sdp"
+                        android:background="@drawable/circle"
+                        android:backgroundTint="@color/acheivementcolor"
+                        android:gravity="center"
+                        android:text="@string/_12_12_2018"
+                        android:textColor="#FFFFFF"
+                        android:textSize="@dimen/_15sdp" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/detailsLinLay"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="@dimen/_16sdp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_3sdp"
+                android:layout_marginBottom="@dimen/_3sdp"
+                android:orientation="horizontal">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/_4sdp"
+                    android:text="@string/mobile"
+                    android:textSize="@dimen/_13ssp"
+                    android:textColor="@color/txtclr" />
+                <EditText
+                    android:id="@+id/getMobile"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/_10sdp"
+                    android:hint="@string/mobile"
+                    android:textColorHint="@color/txtclr"
+                    android:inputType="phone"
+                    android:autofillHints="phone"
+                    android:padding="@dimen/_5sdp"
+                    android:textColor="@color/txtclr"
+                    android:textSize="@dimen/_14ssp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_60sdp"
+                android:layout_marginTop="@dimen/_3sdp"
+                android:layout_marginBottom="@dimen/_3sdp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:padding="@dimen/_4sdp"
+                    android:text="@string/location1"
+                    android:textSize="@dimen/_13ssp"
+                    android:textColor="@color/txtclr" />
+
+                <EditText
+                    android:id="@+id/getLocation"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center_vertical"
+                    android:hint="@string/enter_location_of_place"
+                    android:inputType="text"
+                    android:textColorHint="@color/txtclr"
+                    android:maxLines="3"
+                    android:autofillHints="postalAddress"
+                    android:padding="@dimen/_5sdp"
+                    android:textColor="@color/txtclr"
+                    android:textIsSelectable="true" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_3sdp"
+                android:layout_marginBottom="@dimen/_3sdp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/_5sdp"
+                    android:text="@string/blood_group"
+                    android:textColor="@color/txtclr"
+                    android:textSize="@dimen/_14ssp" />
+
+                <TextView
+                    android:id="@+id/bloodgroup_postTv"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingStart="@dimen/_5sdp"
+                    android:text="@string/bloodgrp"
+                    android:textAlignment="viewStart"
+                    android:textColor="@color/txtclr"
+                    android:textSize="@dimen/_15ssp" />
+            </LinearLayout>
+
+        </LinearLayout>
+    </LinearLayout>
+
+
+</ScrollView>

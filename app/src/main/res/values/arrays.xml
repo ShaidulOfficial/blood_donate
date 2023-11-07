@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="blood_groups">
+        <item>Select Blood Group</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>O+</item>
+        <item>O-</item>
+    </string-array>
+
+    <string-array name="timeAuto">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+           </string-array>
+
+    <string-array name="gender">
+        <item>Select Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Others</item>
+    </string-array>
+
+    <string-array name="available">
+        <item>Yes</item>
+        <item>No</item>
+
+    </string-array>
+
+    <string-array name="userType">
+        <item>Select User Type</item>
+        <item>Donor</item>
+        <item>Receiver</item>
+    </string-array>
+    <string-array name="userType_update">
+        <item>Donor</item>
+        <item>Receiver</item>
+    </string-array>
+</resources>

@@ -1,0 +1,331 @@
+<resources>
+    <string name="app_name">Rokto Bindu</string>
+    <string name="app_namebangla">রক্ত বিন্দু</string>
+    <string name="nav_draw_open">Navigation Drawer Open</string>
+    <string name="nav_draw_close">Navigation Drawer Close</string>
+    <string name="tryagn">Try again</string>
+    <string name="logintxt">Login to your Account</string>
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+    <string name="continueSign">Don\'t have an account?? \n click to <font color="yellow"><i><b>Registration now</b></i></font>
+    </string>
+    <string name="forgotpass">Forgot password 🔑??</string>
+    <string name="checkbx">Remember me</string>
+    <string name="email">Email</string>
+    <string name="email1">Email:</string>
+    <string name="pass">Password</string>
+    <string name="passUpadte">Password Updated</string>
+    <string name="newpass">New Password</string>
+    <string name="confpass">Confirm Password</string>
+    <string name="confnewpass">Retype Password</string>
+    <string name="donmail">Donors Email</string>
+    <string name="mydisdon">My District Donors</string>
+    <string name="myupzdon">My Upzilla Donors</string>
+    <string name="myunion">My Union Donors</string>
+    <string name="grpmatchdon">Group Match Donors</string>
+    <string name="next">Next</string>
+    <string name="alreadySign"><font color="white">Already have an Account? </font> <font color="yellow"><big><i><b>Login</b></i></big></font></string>
+    <string name="signup_page">Create Account</string>
+    <string name="company_name">Shaidul Soft. Studio</string>
+    <string name="alrdyRegistered">Already registered?  <font color="yellow"><i><b>Login</b></i></font> </string>
+    <string name="didnotrecvOtp">Didn\'t receive the OTP <font color="blue"><big><b>Resend OTP Again</b></big></font> </string>
+    <string name="donobtn">Donor registration</string>
+    <string name="recvrbtn">Receiver registration</string>
+    <string name="welcmselect">Welcome to Rokto Bindu</string>
+    <string name="donor">Donor</string>
+    <string name="see">Details more...</string>
+    <string name="mobile">Mobile:</string>
+    <string name="mobile1">Mobile</string>
+    <string name="bloodgrp">Blood Group</string>
+    <string name="day">Days</string>
+    <string name="available">Available Now</string>
+    <string name="donotdonateyet">Do not \n donate yet!</string>
+    <string name="have_donatet_today">Have you donated today?</string>
+    <string name="next_donatet_time">Next donation available in:</string>
+    <string name="notavailable">Not Available</string>
+    <string name="postTitle">Blood Request</string>
+    <string name="donorList">Active Donor List</string>
+    <string name="receiverList">Receiver List</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="notification">Notification</string>
+    <string name="notification1">Notification🔔</string>
+    <string name="blood_search">Blood Search</string>
+    <string name="availablestatus">My Activity Status ON/OFF </string>
+    <string name="selectavailable">If you are not available\n Please select <font color="red"><b>No</b></font>
+         And select the <b> Date </b> when you can donate Blood.
+     </string>
+    <string name="nextTime">Next Donate Time:</string>
+    <string name="village">Bangladesh</string>
+    <string name="Ab">A+</string>
+    <string name="recvr">Receiver</string>
+    <string name="Upzila">Upzila:</string>
+    <string name="Upzila1">Upzila</string>
+    <string name="Union">Union:</string>
+    <string name="Cumilla">Cumilla</string>
+    <string name="adress">Address:</string>
+    <string name="adress1">Address</string>
+    <string name="location">Location</string>
+    <string name="villagnam">Village/Area Name</string>
+    <string name="call">Call</string>
+    <string name="edit">Edit</string>
+    <string name="setting">Settings</string>
+    <string name="home">Home</string>
+    <string name="langu">Language</string>
+    <string name="selectdate">Select date for available donate time:</string>
+    <string name="selectdate1">I am available after</string>
+    <string name="name">Name:</string>
+    <string name="name1">Name</string>
+    <string name="entername">Enter Name</string>
+    <string name="entermobile">Enter Mobile</string>
+    <string name="enteradress">Enter Village or Area</string>
+    <string name="donfavo">My Favourite Donors</string>
+    <string name="chat">Chat</string>
+    <string name="gender">Gender:</string>
+    <string name="update">Update</string>
+    <string name="submit">Submit</string>
+    <string name="date1">JAN/01/2022</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="other">Other</string>
+    <string name="choosGender">Choose Gender</string>
+    <string name="type">User</string>
+    <string name="addfavo">Add\n Favourite</string>
+    <string name="removefavo">Remove\n   Favourite</string>
+    <string name="favlist">All Favourite</string>
+    <string name="areActive">When are you Active?</string>
+    <string name="connect">Connect</string>
+    <string name="otptext">OTP Verification</string>
+    <string name="forgottext">Please enter the OTP send to you</string>
+    <string name="mobileno">+8801860000000</string>
+    <string name="forgottext2">Please check your Phone \n after send <b>OTP</b></string>
+    <string name="forgottext3">Select Options</string>
+    <string name="forgottext4">Via sms</string>
+    <string name="forgottext5">Via Email</string>
+    <string name="forgottext6">Select contact which \n we use to reset your password</string>
+    <string name="forgottext1">We Provide <b>OTP </b>in your Account\'s <b>Phone Number</b>for Which you want to reset your password</string>
+    <string name="veryfy">Verify Code</string>
+    <string name="veryfied">Verified</string>
+    <string name="welcmDonor">Signup</string>
+    <string name="fullname">Fullname </string>
+    <string name="date">01/01/2022</string>
+    <string name="ok">Ok</string>
+    <string name="congra">Congratulations!\n you have successfully create</string>
+    <string name="congra1">Sorry! you are not Donor</string>
+    <string name="congra2">Sorry! you are not Receiver</string>
+    <string name="postMessege">Successfully post</string>
+    <string name="searchMsg">Required all field for Search</string>
+    <string name="notfound">Sorry Not Found</string>
+    <string name="sucess">Success</string>
+    <string name="oops">Oops Failed!!</string>
+    <string name="oops1">We don\'t have such data </string>
+    <string name="profile">My Profile</string>
+    <string name="now_language">Now Language is English</string>
+    <string name="english">English</string>
+    <string name="bangla">Bangla</string>
+    <string name="selectlangu">Select Language</string>
+    <string name="please_check_your_gmail">Please check your Gmail \n and reset password</string>
+    <string name="profileEdit">Profile Edit</string>
+    <string name="add_comment">Add Comment</string>
+    <string name="userprof">User Profile</string>
+    <string name="donorprof">Donor Profile</string>
+    <string name="receverprof">Receiver Profile</string>
+    <string name="comment">Comments</string>
+    <string name="go">Go</string>
+    <string name="welcome">Welcome</string>
+    <string name="profile_menu">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="about">About Us</string>
+    <string name="share">Share App</string>
+    <string name="rate_us">Rate &amp; Review Us</string>
+    <string name="type_header">Type:</string>
+    <string name="total_number">01</string>
+    <string name="total">Total:</string>
+    <string name="a_positive">A Positive</string>
+    <string name="a_negative">A Negative</string>
+    <string name="b_positive">B Positive</string>
+    <string name="b_negative">B Negative</string>
+    <string name="ab_positive">AB Positive</string>
+    <string name="ab_negative">AB Negative</string>
+    <string name="o_positive">O Positive</string>
+    <string name="o_negative">O Negative</string>
+    <string name="division">Division</string>
+    <string name="divisiontext">Division:</string>
+    <string name="user_type">User Type:</string>
+    <string name="blood_group">Blood Group:</string>
+    <string name="division_signup">Division:</string>
+    <string name="district">District:</string>
+    <string name="district1">District</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="availabletxt">I am available now!!!</string>
+    <string name="notavailabletxt">I am not available now!!!</string>
+    <string name="full_name">Full Name</string>
+    <string name="full_name1">Full name:</string>
+    <string name="search">Search</string>
+    <string name="later">Days Later</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="or">or</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="total_donated">Total Donation:</string>
+    <string name="_12_12_2018">12/12/2022</string>
+    <string name="last_donated">Last donated:</string>
+    <string name="_1_times">times</string>
+    <string name="post">Post</string>
+    <string name="active">Activity</string>
+    <string name="enter_location_of_place">Enter location of place</string>
+    <string name="location1">Location:</string>
+    <string name="contact">Contact:</string>
+    <string name="requested_by">Requested by </string>
+    <string name="posted">Posted: </string>
+    <string name="from">From</string>
+    <string name="famale">Female</string>
+    <string name="baby">Baby</string>
+    <string name="patientType">Patient Type:</string>
+    <string name="patientAge">Patient Age:</string>
+    <string name="enterage">Enter patient age</string>
+    <string name="patient_blood_group">Patient blood group:</string>
+    <string name="male1">Male</string>
+    <string name="female1">Female</string>
+    <string name="policy">Privacy Policy</string>
+    <string name="termscondition">Terms &amp; Condition</string>
+    <string name="company">Company</string>
+    <string name="website">Website</string>
+    <string name="rate_the_app">Rate the app</string>
+    <string name="love_this_app">Love this app? Let us Know in the Google Play Store how we can make it even better</string>
+    <string name="share_the_app">Share the App</string>
+    <string name="version">Version</string>
+    <string name="powered_by_shaidul">Powered By Soft. Eng. Shaidul Islam</string>
+    <string name="termssubtitle">This app terms &amp; condition</string>
+    <string name="contact1">Contact</string>
+    <string name="moreapp">More apps</string>
+    <string name="clearing_cache">clearing cache</string>
+    <string name="app_theme">App Theme</string>
+    <string name="dark_or_light_mode">Dark or Light mode</string>
+    <string name="moreappdetail">Another apps of Company</string>
+    <string name="blood_groups"><font color="red">Blood Groups</font></string>
+    <string name="account"><font color="red">Account</font></string>
+    <string name="communicate"><font color="red">Communicate</font></string>
+    <string name="_120_days">10days</string>
+    <string name="patient_name">Patient Name:</string>
+    <string name="patient_name1">Enter Patient Name</string>
+    <string name="blood_bag_ammount">Blood Bag Quantity?</string>
+    <string name="blood_bag_ammount1">Blood Bag Quantity</string>
+    <string name="bag">"0.0"</string>
+    <string name="bag1">Bag</string>
+    <string name="hospital_name">Hospital Name:</string>
+    <string name="year">Year</string>
+    <string name="allbloodgroups">All Blood Group</string>
+    <string name="activity">Donate Available?</string>
+    <string name="a_plus">A+</string>
+    <string name="b_plus">B+</string>
+    <string name="a_minus">A-</string>
+    <string name="b_minus">B-</string>
+    <string name="ab_minus">AB-</string>
+    <string name="o_minus">O-</string>
+    <string name="ab_plus">AB+</string>
+    <string name="o_plus">O+</string>
+    <string name="posttime">Post Time</string>
+    <string name="signinwith_phone">Sign in with Phone</string>
+    <string name="shareicon">Share</string>
+    <string name="updateapp">Update App</string>
+    <string name="memberid">MemberID</string>
+    <string name="id">ID:</string>
+    <string name="count">5000</string>
+    <string name="all_donor">All Member</string>
+    <string name="find_donor">Find Donor</string>
+    <string name="near_hospital">Near Hospital</string>
+    <string name="notice">Notice</string>
+    <string name="something_went_wrong">Something Went Wrong!</string>
+    <string name="bmi">BMI</string>
+    <string name="compass">Compass</string>
+    <string name="myfavorite">My Favourite</string>
+    <string name="blooInfo">Blood Info.</string>
+    <string name="compass_marquee">হালাল রুজি ইবাদাত কবুলের শর্ত । রক্তদান করা একটি মহৎ ইবাদাত।</string>
+    <string name="verify_email">Verify Now</string>
+    <string name="email_not_verify">Email Not Verify!</string>
+    <string name="noveryfy">Not Verified</string>
+    <string name="choosegrp">Select Any Group</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="update_very_soon">update will soon</string>
+    <string name="applanguchange">"App language full change "</string>
+    <string name="ago">0 minutes ago</string>
+    <string name="search_active_donor">Search Active Donor...</string>
+    <string name="who_give">You can give</string>
+    <string name="who_take">You can take</string>
+    <string name="your_blood_group">Your Blood Group:-</string>
+    <string name="calculate_your_bmi">Calculate Your BMI</string>
+    <string name="feet">Feet</string>
+    <string name="height">Height</string>
+    <string name="inch">Inch</string>
+    <!--  BMI -->
+    <string name="text1">
+
+        <font color="Blue"><b>1. SKIP THE SUGARY DRINKS :-</b></font>
+
+        Sugary Drinks, Such as Soda, Juice, Sweet Tea, And Sports Drinks, Add Extra Calories With Little Or No Nutritional Value. People Who Regularly Drink Sugary Beverages Are More Likely To Be OverWeight. Choose Water Or Low-Fat Milk Most Of The Time..\n
+
+        <font color="Blue"><b>\n2. EXERCISE  :-</b></font>
+
+        Regular Physical Activity Burns Calories And Builds Muscle — Both Of Which Help You Look And Feel Good And Can Help Keep Weight Off. Walking The Family Dog, Cycling To School, And Doing Other Things That Increase Your Daily Level Of Activity Can Make a Difference. If You Want To Burn More Calories, Increase The Intensity Of Your Workout And Add Some Strength Exercises To Build Mscle..\n
+
+        <font color="Blue"><b>\n3. REDUCE SCREEN TIME  :-</b></font>
+
+        People who spend a lot of time in front of screens are more likely to be overweight. Set reasonable limits on the amount of time you spend watching TV, playing video games, and using computers, phones, and tablets not related to school work. Turn off all screens at least an hour before bedtime so you can get enough sleep..\n
+
+        <font color="Blue"><b>\n4. WATCH PORTION SIZES  :-</b></font>
+
+        Big Portions Pile On ExtrA Calories That Can Cause Weight Gain. Choose Smaller Portions, eSpecially When Eating High-Calorie Snacks. When Eating Away From Home, Try Sharing An Entree Or Save Half Your Meal To Take Home..\n
+
+        <font color="Blue"><b>\n5. EAT 5 SERVINGS OF FRUITS AND VEGGIES A DAY  :-</b></font>
+
+        Fruits And Veggies Are About More Than Just Vitamins And Minerals. They\'re Also Packed With Fiber, Which Means They Fill You Up. And When You Fill Up On Fruits And Veggies, You\'re Less Likely To Overeat..\n
+
+    </string>
+    <string name="text2">
+
+        <font color="Blue"><b>1. ADD HEALTHY CALORIES :-</b></font>
+
+         You don\'t need to drastically change your diet. You can increase calories by adding nut or seed toppings, cheese, and healthy side dishes. Try almonds, sunflower seeds, fruit, or whole-grain, wheat toast..\n
+
+        <font color="Blue"><b>\n2. GO NUTRIENT DENSE  :-</b></font>
+
+        Instead of eating empty calories and junk food, eat foods that are rich in nutrients. Consider high-protein meats, which can help you to build muscle. Also, choose nutritious carbohydrates, such as brown rice and other whole grains. This helps ensure your body is receiving as much nourishment as possible, even if you\'re dealing with a reduced appetite..\n
+
+        <font color="Blue"><b>\n3. SNACK AWAY  :-</b></font>
+
+        Enjoy snacks that contain plenty of protein and healthy carbohydrates. Consider options like trail mix, protein bars or drinks, and crackers with hummus or peanut butter. Also, enjoy snacks that contain good fats, which are important for a healthy heart. Examples include nuts and avocados..\n
+
+        <font color="Blue"><b>\n4. EAT MINI MEALS  :-</b></font>
+
+        If you\'re struggling with a poor appetite, due to medical or emotional issues, eating large amounts of food may not seem appealing. Consider eating smaller meals throughout the day to increase your calorie intake..\n
+
+        <font color="Blue"><b>\n5. BULK UP  :-</b></font>
+
+        While too much aerobic exercise will burn calories and work against your weight goal, strength training can help. This includes weightlifting or yoga. You gain weight by building muscle..\n
+
+    </string>
+    <string name="text3">
+        <font color="Blue"><b>1. EAT GOOD FOODS :-</b></font>
+         Foods high in sugar and calories lead to weight gain if you are not careful. Choose foods that are high in nutrition and taste, like fruits, vegetables and whole grains. You don\'t have to sacrifice your favorite foods in order to take care of your body either–it\'s ok to have a couple of cheat meals or cheat days every once in a while..\n
+        <font color="Blue"><b>\n2. DRINK MORE WATER  :-</b></font>
+       Drinking water, along with eating good foods and exercising daily, can help you to maintain a healthy weight. According to the Obesity Society, drinking water on a daily basis can also shrink your waistline and change your body fat percentage over time..\n
+        <font color="Blue"><b>\n3. TRACK WHAT YOU EAT  :-</b></font>
+       Many people are unaware of exactly how many calories they consume, which is why it\'s important to track and monitor the total calories you eat and drink each day. If you want to lose weight, you must burn more calories than you eat or drink. Visit the Dietary Guidelines for Americans 2015-2020 chart to see how many calories you need to eat to maintain or lose weight..\n
+        <font color="Blue"><b>\n4. EXERCISE DAILY  :-</b></font>
+        Your body weight is affected by the amount of energy you take in and the amount you use. If you want to maintain your current body weight, you will need to use as much energy as you consume; to lose weight, you need to use more energy than you consume. Find a good exercise program that includes both cardio and strength training. The benefits of daily exercise are more than just keeping your body weight in check; exercise also builds muscle, strengthens your heart and helps your body to function at its best..\n
+        <font color="Blue"><b>\n5.GET MORE SLEEP  :-</b></font>
+        Getting a good amount of sleep every night helps to reset your body, preparing it for the next day. According to the National Institutes of Health, those who don’t get enough sleep often tend to eat more food than they need as a way to stay awake. Make time every day to get enough sleep. Doing so will help you function better throughout the day, and keep you from eating extra. If you have trouble sleeping, find ways to relax your body like yoga, reading or stretching..\n
+        </string>
+    <string name="recalculate_your_bmi">Recalculate Your BMI</string>
+    <string name="age">Age</string>
+    <string name="weight">Weight</string>
+    <string name="normal">Normal</string>
+    <string name="lessweight">Less Weight</string>
+    <string name="overweight">Over Weight</string>
+    <string name="less">Less</string>
+    <string name="over">Over</string>
+    <string name="obesity">Obesity</string>
+    <string name="result">Result</string>
+    <string name="gender1">Gender</string>
+
+</resources>

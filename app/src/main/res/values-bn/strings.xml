@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">রক্ত বিন্দু</string>
+    <string name="app_namebangla">রক্ত বিন্দু</string>
+    <string name="now_language">এখন ভাষা হল বাংলা</string>
+    <string name="english">ইংলিশ</string>
+    <string name="bangla">বাংলা</string>
+    <string name="selectlangu">ভাষা নির্বাচন করুন</string>
+    <string name="nav_draw_open">Navigation Drawer Open</string>
+    <string name="nav_draw_close">Navigation Drawer Close</string>
+    <string name="tryagn">আবার চেষ্টা করুন</string>
+    <string name="logintxt">আপনার একাউন্ট লগিন করুন</string>
+    <string name="login">লগিন</string>
+    <string name="signup">সাইনাপ</string>
+    <string name="continueSign">আপনার একাউন্ট নেই? \n এখনি <font color="yellow"><i><b>রেজিস্ট্রেশন </b></i></font>করুন
+    </string>
+    <string name="forgotpass">পাসওয়ার্ড ভুলে গেছেন🔑??</string>
+    <string name="checkbx">মনে রাখুন</string>
+    <string name="email">ইমেইল</string>
+    <string name="email1">ইমেইলঃ</string>
+    <string name="pass">পাসওয়ার্ড</string>
+    <string name="passUpadte">পাসওয়ার্ড আপডেট</string>
+    <string name="newpass">নতুন পাসওয়ার্ড</string>
+    <string name="confpass">কনফার্ম পাসওয়ার্ড</string>
+    <string name="confnewpass">আবার পাসওয়ার্ড দিন</string>
+    <string name="donmail">রক্ত দাতার ইমেইল</string>
+    <string name="mydisdon">আমার জেলা সদস্য</string>
+    <string name="myupzdon">আমার উপজেলা সদস্য</string>
+    <string name="myunion">আমার ইউনিয়ন সদস্য</string>
+    <string name="grpmatchdon">আমার গ্রুপের সাথে মিল</string>
+    <string name="next">পরবর্তি</string>
+    <string name="alreadySign"><font color="white">পূর্বের একাউন্ট থাকলে </font> <font color="yellow"><i><b>লগিন </b></i></font> করুন</string>
+    <string name="signup_page">একাউন্ট তৈরী করুন</string>
+    <string name="company_name">Shaidul Soft. Studio</string>
+    <string name="alrdyRegistered">Already registered?  <font color="yellow"><i><b>Login</b></i></font> </string>
+    <string name="didnotrecvOtp">Didn\'t receive the OTP <font color="blue"><big><b>Resend OTP Again</b></big></font> </string>
+    <string name="donobtn">Donor registration</string>
+    <string name="recvrbtn">Receiver registration</string>
+    <string name="welcmselect">Welcome to Rokto Bindu</string>
+    <string name="donor">Donor</string>
+    <string name="see">আরও পড়ুন...</string>
+    <string name="mobile">মোবাইলঃ</string>
+    <string name="mobile1">মোবাইল</string>
+    <string name="bloodgrp">রক্তের গ্রুপ</string>
+    <string name="day">দিন</string>
+    <string name="district">জেলাঃ</string>
+    <string name="district1">জেলা</string>
+    <string name="available">রক্ত দিতে প্রস্তুত</string>
+    <string name="donotdonateyet">এখন দিতে পারব না</string>
+    <string name="have_donatet_today">আজকে দিতে পারবেন?</string>
+    <string name="next_donatet_time">পরবর্তীতে যখন দিতে পারবঃ </string>
+    <string name="notavailable">রক্ত দিতে প্রস্তুত নই</string>
+    <string name="postTitle">ব্লাড রিকুয়েস্ট</string>
+    <string name="donorList">এক্টিভ রক্তদাতা লিস্ট</string>
+    <string name="receiverList">রক্তগ্রহীতা লিস্ট</string>
+    <string name="dashboard">ডেশবোর্ড</string>
+    <string name="blood_search">রক্ত খুজুন</string>
+    <string name="availablestatus">রক্ত দিতে সক্ষম/অক্ষম </string>
+    <string name="selectavailable">আপনি কি প্রস্তুত? \n দয়া করে বাছাই করুন <font color="green"><b>হ্যা</b></font>অথবা <font color="red"><b>না</b></font>
+         এবং <b> তারিখ </b> দিন যখন আপনি রক্ত দিতে পারবেন
+     </string>
+    <string name="nextTime">পরবর্তী ডোনেশনঃ</string>
+    <string name="village">Bangladesh</string>
+    <string name="Ab">A+</string>
+    <string name="recvr">Receiver</string>
+    <string name="Upzila">উপজেলাঃ</string>
+    <string name="Upzila1">উপজেলা</string>
+    <string name="Union">ইউনিয়নঃ</string>
+    <string name="Cumilla">কুমিল্লা</string>
+    <string name="adress">ঠিকানাঃ</string>
+    <string name="adress1">ঠিকানা</string>
+    <string name="location">অবস্থান</string>
+    <string name="villagnam">গ্রাম/মহল্লা</string>
+    <string name="call">কল</string>
+    <string name="edit">এডিট</string>
+    <string name="setting">সেটিংস</string>
+    <string name="home">হোম</string>
+    <string name="langu">ভাষা</string>
+    <string name="selectdate">পরবর্তী সময়ে রক্ত দিতে \n তারিখ বাছাই করুনঃ </string>
+    <string name="selectdate1">আমি রক্ত দিতে সক্ষম হব</string>
+    <string name="name">নামঃ</string>
+    <string name="name1">নাম</string>
+    <string name="entername">Enter Name</string>
+    <string name="entermobile">Enter Mobile</string>
+    <string name="enteradress">গ্রাম বা মহল্লা</string>
+    <string name="donfavo">আমার প্রিয় সদস্য</string>
+    <string name="chat">চ্যাট</string>
+    <string name="gender">লিঙ্গঃ</string>
+    <string name="update">আপডেট</string>
+    <string name="submit">জমা দিন</string>
+    <string name="date1">JAN/01/2022</string>
+    <string name="male">পুরুষ</string>
+    <string name="female">মহিলা</string>
+    <string name="other">Other</string>
+    <string name="choosGender">Choose Gender</string>
+    <string name="type">User</string>
+    <string name="addfavo">যুক্ত করুন</string>
+    <string name="removefavo">বাদ দিন</string>
+    <string name="favlist">প্রিয়দের তালিকা</string>
+    <string name="areActive">আপনি কখন রক্ত দিতে ইচ্ছুক?</string>
+    <string name="connect">কানেক্ট</string>
+    <string name="otptext">OTP Verification</string>
+    <string name="forgottext">Please enter the OTP send to you</string>
+    <string name="mobileno">+৮৮০১৮৬০৬৯৬৯৯৯</string>
+    <string name="forgottext2">Please check your Phone \n after send <b>OTP</b></string>
+    <string name="forgottext3">অপশন সিলেক্ট করুন</string>
+    <string name="forgottext4">ভায়া এস এম এস</string>
+    <string name="forgottext5">ভায়া ইমেইল</string>
+    <string name="forgottext6">Select contact which \n we use to reset your password</string>
+    <string name="forgottext1">We Provide <b>OTP </b>in your Account\'s <b>Phone Number</b>for Which you want to reset your password</string>
+    <string name="veryfy">Verify Code</string>
+    <string name="veryfied">Verified</string>
+    <string name="welcmDonor">সাইন আপ</string>
+    <string name="fullname">সম্পূর্ন নাম</string>
+    <string name="date">০১/০১/২০২২</string>
+    <string name="ok">ঠিক আছে</string>
+    <string name="congra">অভিনন্দন!\n আপনি সফল হয়েছেন</string>
+    <string name="congra1">দুঃখিত! আপনি রক্তদাতা নন</string>
+    <string name="congra2">দুঃখিত! আপনি রক্তগ্রহীতা নন</string>
+    <string name="postMessege">পোস্টটি সফল হয়েছে</string>
+    <string name="searchMsg">সবগুলো ফিল্ড প্রয়োজন</string>
+    <string name="notfound">দুঃখিত খুজে পাচ্ছি না</string>
+    <string name="sucess">সফল</string>
+    <string name="oops">কিছু ভুল হয়েছে!!</string>
+    <string name="oops1">আমাদের কাছে এমন তথ্য নেই </string>
+    <string name="profile">আমার প্রোফাইল</string>
+    <string name="please_check_your_gmail">জমা দেওয়ার পর \n আপনার ইমেইল চেক করুন</string>
+    <string name="profileEdit">প্রোফাইল এডিট</string>
+    <string name="add_comment">Add Comment</string>
+    <string name="userprof">ইউজার প্রোফাইল</string>
+    <string name="donorprof">রক্তদাতা প্রোফাইল</string>
+    <string name="receverprof">রক্তগ্রহীতা প্রোফাইল</string>
+    <string name="comment">মন্তব্য</string>
+    <string name="go">যাও</string>
+    <string name="welcome">স্বাগতম</string>
+    <string name="profile_menu">প্রোফাইল</string>
+    <string name="logout">লগাউট</string>
+    <string name="notification">নটিফিকেশন</string>
+    <string name="notification1">নটিফিকেশন🔔</string>
+    <string name="about">আমাদের সম্পর্কে</string>
+    <string name="share">শেয়ার এপ</string>
+    <string name="rate_us">রেট এবং রিভিও</string>
+    <string name="type_header">টাইপঃ</string>
+    <string name="total_number">১</string>
+    <string name="total">মোটঃ</string>
+    <string name="a_positive">এ পজিটিভ</string>
+    <string name="a_negative">এ নেগেটিভ</string>
+    <string name="b_positive">বি পজিটিভ</string>
+    <string name="b_negative">বি নেগেটিভ</string>
+    <string name="ab_positive">এ বি পজিটিভ</string>
+    <string name="ab_negative">এ বি নেগেটিভ</string>
+    <string name="o_positive">ও পজিটিভ</string>
+    <string name="o_negative">ও নেগেটিভ</string>
+    <string name="division">বিভাগ</string>
+    <string name="divisiontext">বিভাগঃ</string>
+    <string name="user_type">ব্যবহারকারির ধরণঃ</string>
+    <string name="blood_group">রক্তের গ্রুপঃ</string>
+    <string name="division_signup">বিভাগঃ</string>
+    <string name="mobile_number">মোবাইল নাম্বার</string>
+    <string name="availabletxt"> আমি এখন রক্ত দিতে প্রস্তুত!!!</string>
+    <string name="notavailabletxt">আমি এখন রক্ত দিতে প্রস্তুত নই!!!</string>
+    <string name="full_name">সম্পূর্ন নাম</string>
+    <string name="full_name1">সম্পূর্ন নামঃ</string>
+    <string name="search">খুজুন</string>
+    <string name="later">দিন পর</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="or">অথবা</string>
+    <string name="create_new_account">নতুন একাউন্ট করুন</string>
+    <string name="total_donated">Total Donation:</string>
+    <string name="_12_12_2018">12/12/2022</string>
+    <string name="last_donated">Last donated:</string>
+    <string name="_1_times"> বার</string>
+    <string name="post">পোস্ট</string>
+    <string name="active">Activity</string>
+    <string name="enter_location_of_place">এলাকার নাম</string>
+    <string name="location1">এরিয়াঃ</string>
+    <string name="contact">যোগাযোগঃ</string>
+    <string name="requested_by">Requested by </string>
+    <string name="posted">পোস্টেডঃ</string>
+    <string name="from">From</string>
+    <string name="famale">মহিলা</string>
+    <string name="baby">Baby</string>
+    <string name="patientType">রুগীর ধরনঃ</string>
+    <string name="patientAge">রুগীর বয়সঃ</string>
+    <string name="enterage">রুগীর বয়স দিন</string>
+    <string name="patient_blood_group">রুগীর রক্তের গ্রুপঃ</string>
+    <string name="male1">Male</string>
+    <string name="female1">Female</string>
+    <string name="policy">প্রাইভেসি পলিসি</string>
+    <string name="termscondition">বিধিনিষেধ এবং শর্তাবলী</string>
+    <string name="company">Company</string>
+    <string name="website">Website</string>
+    <string name="rate_the_app">Rate the app</string>
+    <string name="love_this_app">Love this app? Let us Know in the Google Play Store how we can make it even better</string>
+    <string name="share_the_app">Share the App</string>
+    <string name="version">Version</string>
+    <string name="powered_by_shaidul">Powered By Shaidul Islam</string>
+    <string name="termssubtitle">This app terms condition</string>
+    <string name="contact1">Contact</string>
+    <string name="moreapp">আরও এপস</string>
+    <string name="clearing_cache">clearing cache</string>
+    <string name="app_theme">App Theme</string>
+    <string name="dark_or_light_mode">Dark or Light mode</string>
+    <string name="moreappdetail">Another apps of Company</string>
+    <string name="blood_groups"><font color="red">রক্তের গ্রুপ </font></string>
+    <string name="account"><font color="red">একাউন্ট</font></string>
+    <string name="communicate"><font color="red">কমিউনিকেট</font></string>
+    <string name="_120_days">120 days</string>
+    <string name="patient_name">রুগীর নামঃ</string>
+    <string name="patient_name1">রুগীর নাম লিখুন</string>
+    <string name="blood_bag_ammount">ব্লাড ব্যাগ পরিমাণঃ</string>
+    <string name="blood_bag_ammount1">ব্লাড ব্যাগ পরিমাণ</string>
+    <string name="bag">"০.০"</string>
+    <string name="bag1">ব্যাগ</string>
+    <string name="hospital_name">হাসপাতালের নামঃ</string>
+    <string name="year">বছর</string>
+    <string name="allbloodgroups">সকল রক্তের গ্রুপ</string>
+    <string name="activity">রক্ত দিতে সক্ষম?</string>
+    <string name="a_plus">A+</string>
+    <string name="b_plus">B+</string>
+    <string name="a_minus">A-</string>
+    <string name="b_minus">B-</string>
+    <string name="ab_minus">AB-</string>
+    <string name="o_minus">O-</string>
+    <string name="ab_plus">AB+</string>
+    <string name="o_plus">O+</string>
+    <string name="posttime">Post Time</string>
+    <string name="signinwith_phone">Sign in with Phone</string>
+    <string name="shareicon">Share</string>
+    <string name="updateapp">আপডেট এপ</string>
+    <string name="memberid">MemberID</string>
+    <string name="id">আইডিঃ</string>
+    <string name="count">500</string>
+    <string name="all_donor">All Member</string>
+    <string name="find_donor">Find Donor</string>
+    <string name="near_hospital">Near Hospital</string>
+    <string name="notice">Notice</string>
+    <string name="something_went_wrong">Something Went Wrong!</string>
+    <string name="bmi">বি এম আই</string>
+    <string name="compass">Compass</string>
+    <string name="myfavorite">My Favourite</string>
+    <string name="blooInfo">Blood Info.</string>
+    <string name="compass_marquee">হালাল রুজি ইবাদাত কবুলের শর্ত । রক্তদান করা একটি মহৎ ইবাদাত।</string>
+    <string name="verify_email">Verify Now</string>
+    <string name="email_not_verify">Email Not Verify!</string>
+    <string name="noveryfy">Not Verified</string>
+    <string name="choosegrp">যেকোনো গ্রুপ বাছাই করুন</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="update_very_soon">update very soon</string>
+    <string name="applanguchange">"App language full change "</string>
+    <string name="ago">0 minutes ago</string>
+    <string name="search_active_donor">Search Active Donor...</string>
+    <string name="who_give">দিতে পারবেন</string>
+    <string name="who_take">নিতে পারবেন</string>
+    <string name="your_blood_group">আপনার রক্তের গ্রুপঃ-</string>
+    <string name="calculate_your_bmi">Calculate Your BMI</string>
+    <string name="feet">Feet</string>
+    <string name="height">Height</string>
+    <string name="inch">Inch</string>
+<!--       BMI   -->
+    <string name="text1">
+
+        <font color="Blue"><b>1. SKIP THE SUGARY DRINKS :-</b></font>
+
+        Sugary Drinks, Such as Soda, Juice, Sweet Tea, And Sports Drinks, Add Extra Calories With Little Or No Nutritional Value. People Who Regularly Drink Sugary Beverages Are More Likely To Be OverWeight. Choose Water Or Low-Fat Milk Most Of The Time..\n
+
+        <font color="Blue"><b>\n2. EXERCISE  :-</b></font>
+
+        Regular Physical Activity Burns Calories And Builds Muscle — Both Of Which Help You Look And Feel Good And Can Help Keep Weight Off. Walking The Family Dog, Cycling To School, And Doing Other Things That Increase Your Daily Level Of Activity Can Make a Difference. If You Want To Burn More Calories, Increase The Intensity Of Your Workout And Add Some Strength Exercises To Build Mscle..\n
+
+        <font color="Blue"><b>\n3. REDUCE SCREEN TIME  :-</b></font>
+
+        People who spend a lot of time in front of screens are more likely to be overweight. Set reasonable limits on the amount of time you spend watching TV, playing video games, and using computers, phones, and tablets not related to school work. Turn off all screens at least an hour before bedtime so you can get enough sleep..\n
+
+        <font color="Blue"><b>\n4. WATCH PORTION SIZES  :-</b></font>
+
+        Big Portions Pile On ExtrA Calories That Can Cause Weight Gain. Choose Smaller Portions, eSpecially When Eating High-Calorie Snacks. When Eating Away From Home, Try Sharing An Entree Or Save Half Your Meal To Take Home..\n
+
+        <font color="Blue"><b>\n5. EAT 5 SERVINGS OF FRUITS AND VEGGIES A DAY  :-</b></font>
+
+        Fruits And Veggies Are About More Than Just Vitamins And Minerals. They\'re Also Packed With Fiber, Which Means They Fill You Up. And When You Fill Up On Fruits And Veggies, You\'re Less Likely To Overeat..\n
+
+    </string>
+    <string name="text2">
+
+        <font color="Blue"><b>1. ADD HEALTHY CALORIES :-</b></font>
+
+         You don\'t need to drastically change your diet. You can increase calories by adding nut or seed toppings, cheese, and healthy side dishes. Try almonds, sunflower seeds, fruit, or whole-grain, wheat toast..\n
+
+        <font color="Blue"><b>\n2. GO NUTRIENT DENSE  :-</b></font>
+
+        Instead of eating empty calories and junk food, eat foods that are rich in nutrients. Consider high-protein meats, which can help you to build muscle. Also, choose nutritious carbohydrates, such as brown rice and other whole grains. This helps ensure your body is receiving as much nourishment as possible, even if you\'re dealing with a reduced appetite..\n
+
+        <font color="Blue"><b>\n3. SNACK AWAY  :-</b></font>
+
+        Enjoy snacks that contain plenty of protein and healthy carbohydrates. Consider options like trail mix, protein bars or drinks, and crackers with hummus or peanut butter. Also, enjoy snacks that contain good fats, which are important for a healthy heart. Examples include nuts and avocados..\n
+
+        <font color="Blue"><b>\n4. EAT MINI MEALS  :-</b></font>
+
+        If you\'re struggling with a poor appetite, due to medical or emotional issues, eating large amounts of food may not seem appealing. Consider eating smaller meals throughout the day to increase your calorie intake..\n
+
+        <font color="Blue"><b>\n5. BULK UP  :-</b></font>
+
+        While too much aerobic exercise will burn calories and work against your weight goal, strength training can help. This includes weightlifting or yoga. You gain weight by building muscle..\n
+
+    </string>
+    <string name="text3">
+
+        <font color="Blue"><b>1. EAT GOOD FOODS :-</b></font>
+
+         Foods high in sugar and calories lead to weight gain if you are not careful. Choose foods that are high in nutrition and taste, like fruits, vegetables and whole grains. You don\'t have to sacrifice your favorite foods in order to take care of your body either–it\'s ok to have a couple of cheat meals or cheat days every once in a while..\n
+
+        <font color="Blue"><b>\n2. DRINK MORE WATER  :-</b></font>
+
+        Drinking water, along with eating good foods and exercising daily, can help you to maintain a healthy weight. According to the Obesity Society, drinking water on a daily basis can also shrink your waistline and change your body fat percentage over time..\n
+
+        <font color="Blue"><b>\n3. TRACK WHAT YOU EAT  :-</b></font>
+
+        Many people are unaware of exactly how many calories they consume, which is why it\'s important to track and monitor the total calories you eat and drink each day. If you want to lose weight, you must burn more calories than you eat or drink. Visit the Dietary Guidelines for Americans 2015-2020 chart to see how many calories you need to eat to maintain or lose weight..\n
+
+        <font color="Blue"><b>\n4. EXERCISE DAILY  :-</b></font>
+
+        Your body weight is affected by the amount of energy you take in and the amount you use. If you want to maintain your current body weight, you will need to use as much energy as you consume; to lose weight, you need to use more energy than you consume. Find a good exercise program that includes both cardio and strength training. The benefits of daily exercise are more than just keeping your body weight in check; exercise also builds muscle, strengthens your heart and helps your body to function at its best..\n
+
+        <font color="Blue"><b>\n5.GET MORE SLEEP  :-</b></font>
+
+        Getting a good amount of sleep every night helps to reset your body, preparing it for the next day. According to the National Institutes of Health, those who don’t get enough sleep often tend to eat more food than they need as a way to stay awake. Make time every day to get enough sleep. Doing so will help you function better throughout the day, and keep you from eating extra. If you have trouble sleeping, find ways to relax your body like yoga, reading or stretching..\n
+
+
+
+        </string>
+    <string name="recalculate_your_bmi">Recalculate Your BMI</string>
+    <string name="age">Age</string>
+    <string name="weight">Weight</string>
+    <string name="normal">Normal</string>
+    <string name="lessweight">Less Weight</string>
+    <string name="overweight">Over Weight</string>
+    <string name="less">Less</string>
+    <string name="over">Over</string>
+    <string name="obesity">Obesity</string>
+    <string name="result">Result</string>
+    <string name="gender1">Gender</string>
+
+</resources>

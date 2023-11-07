@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="@dimen/_10sdp"
+    android:layout_marginTop="@dimen/_2sdp"
+    android:layout_marginHorizontal="@dimen/_5sdp"
+    android:background="@drawable/shape_ract"
+     >
+<ImageButton
+    android:id="@+id/back"
+    android:layout_width="@dimen/_40sdp"
+    android:layout_height="@dimen/_40sdp"
+    android:padding="@dimen/_5sdp"
+    android:background="@android:color/transparent"
+    android:src="@drawable/arrow_back2"
+    app:tint="@color/white" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/_5sdp"
+        android:text="@string/add_comment"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_20ssp"
+        android:textStyle="bold" />
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_margin="8dp"
+        app:endIconMode="clear_text"
+        android:id="@+id/commentTextField"
+        app:hintTextColor="@color/black"
+        android:textColorHint="@color/black"
+        android:layout_marginTop="@dimen/_30sdp"
+        android:layout_below="@+id/back"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:startIconTint="@color/col11"
+        app:startIconDrawable="@drawable/ic_comment"
+        android:hint="Comment">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/col11"
+            android:maxLines="6"
+            android:inputType="textCapSentences|textMultiLine"
+            android:id="@+id/comment_edt"
+            />
+
+
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <ImageButton
+        android:id="@+id/upload_Commentbtn"
+        android:layout_width="@dimen/_90sdp"
+        android:layout_height="@dimen/_40sdp"
+        android:layout_below="@+id/commentTextField"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="@dimen/_20ssp"
+       android:background="@drawable/square_border2"
+        android:src="@drawable/send_24" />
+
+
+
+
+</RelativeLayout>

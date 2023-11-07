@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="cumillasic">
+
+        <item>১নং ওয়ার্ড</item>      	<item>২নং ওয়ার্ড </item>		<item>৩নং ওয়ার্ড</item>
+        <item>৪নং ওয়ার্ড</item>		<item>৫নং ওয়ার্ড</item>		<item>৬নং ওয়ার্ড </item>
+        <item>৭নং ওয়ার্ড </item>		<item>৮নং ওয়ার্ড </item>        	<item>৯নং ওয়ার্ড </item>
+        <item>১০নং ওয়ার্ড </item>		<item>১১নং ওয়ার্ড </item>		<item>১২নং ওয়ার্ড</item>
+        <item>১৩নং ওয়ার্ড </item>        	<item>১৪নং ওয়ার্ড </item>		<item>১৫নং ওয়ার্ড </item>
+        <item>১৬নং ওয়ার্ড </item>		<item>১৭নং ওয়ার্ড </item>		<item>১৮নং ওয়ার্ড </item>
+        <item>১৯নং ওয়ার্ড</item>		<item>২০নং ওয়ার্ড </item>        	<item>২১নং ওয়ার্ড </item>
+        <item>২২নং ওয়ার্ড </item>        	<item>২৩নং ওয়ার্ড </item>		<item>২৪নং ওয়ার্ড </item>
+        <item>২৫নং ওয়ার্ড </item>		<item>২৬নং ওয়ার্ড </item>
+        <item>২৭নং ওয়ার্ড </item>
+
+    </string-array>
+
+    <string-array name="sylhetsic">
+
+        <item>১নং ওয়ার্ড</item>       	<item>২নং ওয়ার্ড </item>		<item>৩নং ওয়ার্ড</item>		<item>৪নং ওয়ার্ড</item>		<item>৫নং ওয়ার্ড</item>
+        <item>৬নং ওয়ার্ড </item>        	<item>৭নং ওয়ার্ড </item>		<item>৮নং ওয়ার্ড </item>        	<item>৯নং ওয়ার্ড </item>		<item>১০নং ওয়ার্ড </item>
+        <item>১১নং ওয়ার্ড </item>		<item>১২নং ওয়ার্ড</item>		<item>১৩নং ওয়ার্ড </item>        	<item>১৪নং ওয়ার্ড </item>		<item>১৫নং ওয়ার্ড </item>
+        <item>১৬নং ওয়ার্ড </item>		<item>১৭নং ওয়ার্ড </item>		<item>১৮নং ওয়ার্ড </item>		<item>১৯নং ওয়ার্ড</item>		<item>২০নং ওয়ার্ড </item>
+        <item>২১নং ওয়ার্ড </item>		<item>২২নং ওয়ার্ড </item>        	<item>২৩নং ওয়ার্ড </item>		<item>২৪নং ওয়ার্ড </item>		<item>২৫নং ওয়ার্ড </item>
+        <item>২৬নং ওয়ার্ড </item>		<item>২৭নং ওয়ার্ড </item>
+
+
+    </string-array>
+
+
+
+    <string-array name="naryanganjsic">
+
+        <item>১নং ওয়ার্ড</item>       	<item>২নং ওয়ার্ড </item>		<item>৩নং ওয়ার্ড</item>		<item>৪নং ওয়ার্ড</item>
+        <item>৫নং ওয়ার্ড</item>		<item>৬নং ওয়ার্ড </item>        	<item>৭নং ওয়ার্ড </item>		<item>৮নং ওয়ার্ড </item>
+        <item>৯নং ওয়ার্ড </item>		<item>১০নং ওয়ার্ড </item>		<item>১১নং ওয়ার্ড </item>		<item>১২নং ওয়ার্ড</item>
+        <item>১৩নং ওয়ার্ড </item>        	<item>১৪নং ওয়ার্ড </item>		<item>১৫নং ওয়ার্ড </item>        	<item>১৬নং ওয়ার্ড </item>
+        <item>১৭নং ওয়ার্ড </item>		<item>১৮নং ওয়ার্ড </item>		<item>১৯নং ওয়ার্ড</item>		<item>২০নং ওয়ার্ড </item>
+        <item>২১নং ওয়ার্ড </item>		<item>২২নং ওয়ার্ড </item>        	<item>২৩নং ওয়ার্ড </item>		<item>২৪নং ওয়ার্ড </item>
+        <item>২৫নং ওয়ার্ড </item>		<item>২৬নং ওয়ার্ড </item>		<item>২৭নং ওয়ার্ড </item>
+
+
+    </string-array>
+
+
+
+
+
+    <string-array name="khulnasic">
+
+        <item>১নং ওয়ার্ড</item>      	<item>২নং ওয়ার্ড </item>		<item> ৩নং ওয়ার্ড</item>		<item> ৪নং ওয়ার্ড</item>		<item>৫নং ওয়ার্ড</item>
+        <item>৬নং ওয়ার্ড </item>        	<item>৭নং ওয়ার্ড </item>		<item>৮নং ওয়ার্ড </item>        	<item>৯নং ওয়ার্ড </item>		<item>১০নং ওয়ার্ড </item>
+        <item>১১নং ওয়ার্ড </item>		<item>১২নং ওয়ার্ড</item>		<item>১৩নং ওয়ার্ড </item>        	<item>১৪নং ওয়ার্ড </item>		<item>১৫নং ওয়ার্ড </item>
+        <item>১৬নং ওয়ার্ড </item>		<item>১৭নং ওয়ার্ড </item>		<item>১৮নং ওয়ার্ড </item>		<item>১৯নং ওয়ার্ড</item>		<item>২০নং ওয়ার্ড </item>
+        <item>২১নং ওয়ার্ড </item>		<item>২২নং ওয়ার্ড </item>        	<item>২৩নং ওয়ার্ড </item>		<item>২৪নং ওয়ার্ড </item>		<item>২৫নং ওয়ার্ড </item>
+        <item>২৬নং ওয়ার্ড </item>		<item>২৭নং ওয়ার্ড </item>		<item>২৮নং ওয়ার্ড </item>		<item>২৯নং ওয়ার্ড </item>		<item>৩০নং ওয়ার্ড </item>
+        <item>৩১নং ওয়ার্ড </item>
+
+
+    </string-array>
+
+
+    <string-array name="barishalsic">
+
+        <item>১নং ওয়ার্ড</item>       		<item>২নং ওয়ার্ড </item>		<item> ৩নং ওয়ার্ড</item>		<item> ৪নং ওয়ার্ড</item>		<item>৫নং ওয়ার্ড</item>
+        <item>৬নং ওয়ার্ড </item>	        	<item>৭নং ওয়ার্ড </item>		<item>৮নং ওয়ার্ড </item>        	<item>৯নং ওয়ার্ড </item>		<item>১০নং ওয়ার্ড </item>
+        <item>১১নং ওয়ার্ড </item>			<item>১২নং ওয়ার্ড</item>		<item>১৩নং ওয়ার্ড </item>        	<item>১৪নং ওয়ার্ড </item>		<item>১৫নং ওয়ার্ড </item>
+        <item>১৬নং ওয়ার্ড </item>			<item>১৭নং ওয়ার্ড </item>		<item>১৮নং ওয়ার্ড </item>		<item>১৯নং ওয়ার্ড</item>		<item>২০নং ওয়ার্ড </item>
+        <item>২১নং ওয়ার্ড </item>			<item>২২নং ওয়ার্ড </item>        	<item>২৩নং ওয়ার্ড </item>		<item>২৪নং ওয়ার্ড </item>		<item>২৫নং ওয়ার্ড </item>
+        <item>২৬নং ওয়ার্ড </item>			<item>২৭নং ওয়ার্ড </item>		<item>২৮নং ওয়ার্ড </item>		<item>২৯নং ওয়ার্ড </item>		<item>৩০নং ওয়ার্ড </item>
+
+
+
+    </string-array>
+
+
+
+
+    <string-array name="gazisic">
+
+        <item>১নং ওয়ার্ড</item>
+        <item>২নং ওয়ার্ড </item>		<item>৩নং ওয়ার্ড</item>		<item>৪নং ওয়ার্ড</item>		<item>৫নং ওয়ার্ড</item>		<item>৬নং ওয়ার্ড </item>        	<item>৭নং ওয়ার্ড </item>		<item>৮নং ওয়ার্ড </item>        	<item>৯নং ওয়ার্ড </item>		<item>১০নং ওয়ার্ড </item>		<item>১১নং ওয়ার্ড </item>		<item>১২নং ওয়ার্ড</item>		<item>১৩নং ওয়ার্ড </item>        	<item>১৪নং ওয়ার্ড </item>		<item>১৫নং ওয়ার্ড </item>        	<item>১৬নং ওয়ার্ড </item>		<item>১৭নং ওয়ার্ড </item>		<item>১৮নং ওয়ার্ড </item>		<item>১৯নং ওয়ার্ড</item>
+        <item>২০নং ওয়ার্ড </item>        	<item>২১নং ওয়ার্ড </item>		<item>২২নং ওয়ার্ড </item>        	<item>২৩নং ওয়ার্ড </item>		<item>২৪নং ওয়ার্ড </item>		<item>২৫নং ওয়ার্ড </item>		<item>২৬নং ওয়ার্ড </item>		<item>২৭নং ওয়ার্ড </item>		<item>২৮নং ওয়ার্ড</item>       		<item>২৯নং ওয়ার্ড </item>
+        <item>৩০নং ওয়ার্ড</item>		<item>৩১নং ওয়ার্ড</item>		<item>৩২নং ওয়ার্ড</item>		<item>৩৩নং ওয়ার্ড </item>        	<item>৩৪নং ওয়ার্ড </item>		<item>৩৫নং ওয়ার্ড </item>        	<item>৩৬নং ওয়ার্ড </item>		<item>৩৭নং ওয়ার্ড </item>		<item>৩৮নং ওয়ার্ড </item>		<item>৩৯নং ওয়ার্ড</item>		<item>৪০নং ওয়ার্ড </item>        	<item>৪১নং ওয়ার্ড </item>
+        <item>৪২নং ওয়ার্ড </item>        	<item>৪৩৬নং ওয়ার্ড </item>		<item>৪৪নং ওয়ার্ড </item>		<item>৪৫নং ওয়ার্ড </item>		<item>৪৬নং ওয়ার্ড</item>		<item>৪৭নং ওয়ার্ড </item>        	<item>৪৮নং ওয়ার্ড </item>	<item>৪৯নং ওয়ার্ড </item>
+        <item>৫০নং ওয়ার্ড </item>		<item>৫১নং ওয়ার্ড </item>		<item>৫২নং ওয়ার্ড </item>		<item>৫৩নং ওয়ার্ড </item>		<item>৫৪নং ওয়ার্ড </item>		<item>৫৫নং ওয়ার্ড </item>		<item>৫৬নং ওয়ার্ড </item>		<item>৫৭নং ওয়ার্ড </item>
+
+
+    </string-array>
+
+    <string-array name="chittagongsic">
+
+        <item>১নং ওয়ার্ড</item>       	<item>২নং ওয়ার্ড </item>		<item>৩নং ওয়ার্ড</item>		<item>৪নং ওয়ার্ড</item>		<item>৫নং ওয়ার্ড</item>		<item>৬নং ওয়ার্ড </item>        	<item>৭নং ওয়ার্ড </item>		<item>৮নং ওয়ার্ড </item>        	<item>৯নং ওয়ার্ড </item>
+        <item>১০নং ওয়ার্ড </item>		<item>১১নং ওয়ার্ড </item>		<item>১২নং ওয়ার্ড</item>		<item>১৩নং ওয়ার্ড </item>       	<item>১৪নং ওয়ার্ড </item>		<item>১৫নং ওয়ার্ড </item>        	<item>১৬নং ওয়ার্ড </item>
+        <item>১৭নং ওয়ার্ড </item>		<item>১৮নং ওয়ার্ড </item>		<item>১৯নং ওয়ার্ড</item>		<item>২০নং ওয়ার্ড </item>       	<item>২১নং ওয়ার্ড </item>		<item>২২নং ওয়ার্ড </item>        	<item>২৩নং ওয়ার্ড </item>
+        <item>২৪নং ওয়ার্ড </item>		<item>২৫নং ওয়ার্ড </item>		<item>২৬নং ওয়ার্ড </item>		<item>২৭নং ওয়ার্ড </item>		<item>২৮নং ওয়ার্ড</item>
+        <item>২৯নং ওয়ার্ড </item>		<item>৩০নং ওয়ার্ড</item>		<item>৩১নং ওয়ার্ড</item>		<item>৩২নং ওয়ার্ড</item>		<item>৩৩নং ওয়ার্ড </item>        	<item>৩৪নং ওয়ার্ড </item>		<item>৩৫নং ওয়ার্ড </item>        	<item>৩৬নং ওয়ার্ড </item>
+        <item>৩৭নং ওয়ার্ড </item>		<item>৩৮নং ওয়ার্ড </item>		<item>৩৯নং ওয়ার্ড</item>		<item>৪০নং ওয়ার্ড </item>
+        <item>৪১নং ওয়ার্ড </item>
+
+
+
+    </string-array>
+
+
+
+    <string-array name="dhakaNorthsic">
+
+        <item>১নং ওয়ার্ড</item>     		<item>২নং ওয়ার্ড </item>		<item>৩নং ওয়ার্ড</item>		<item>৪নং ওয়ার্ড</item>
+        <item>৫নং ওয়ার্ড</item>		<item>৬নং ওয়ার্ড </item>        	<item>৭নং ওয়ার্ড </item>		<item>৮নং ওয়ার্ড </item>
+        <item>৯নং ওয়ার্ড </item>		<item>১০নং ওয়ার্ড </item>		<item>১১নং ওয়ার্ড </item>		<item>১২নং ওয়ার্ড</item>
+        <item>১৩নং ওয়ার্ড </item>       	<item>১৪নং ওয়ার্ড </item>		<item>১৫নং ওয়ার্ড </item>        	<item>১৬নং ওয়ার্ড </item>
+        <item>১৭নং ওয়ার্ড </item>		<item>১৮নং ওয়ার্ড </item>		<item>১৯নং ওয়ার্ড</item>		<item>২০নং ওয়ার্ড </item>
+        <item>২১নং ওয়ার্ড </item>		<item>২২নং ওয়ার্ড </item>        	<item>২৩নং ওয়ার্ড </item>		<item>২৪নং ওয়ার্ড </item>
+        <item>২৫নং ওয়ার্ড </item>		<item>২৬নং ওয়ার্ড </item>		<item>২৭নং ওয়ার্ড </item>		<item>২৮নং ওয়ার্ড</item>
+        <item>২৯নং ওয়ার্ড </item>		<item>৩০নং ওয়ার্ড</item>		<item>৩১নং ওয়ার্ড</item>		<item>৩২নং ওয়ার্ড</item>
+        <item>৩৩নং ওয়ার্ড </item>
+        <item>৩৪নং ওয়ার্ড </item>
+
+
+
+
+    </string-array>
+
+
+
+    <string-array name="rangpursic">
+
+        <item>১নং ওয়ার্ড</item>       	<item>২নং ওয়ার্ড </item>		<item>৩নং ওয়ার্ড</item>		<item>৪নং ওয়ার্ড</item>		<item>৫নং ওয়ার্ড</item>	<item>৬নং ওয়ার্ড </item>        	<item>৭নং ওয়ার্ড </item>		<item>৮নং ওয়ার্ড </item>        	<item>৯নং ওয়ার্ড </item>		<item>১০নং ওয়ার্ড </item>
+        <item>১১নং ওয়ার্ড </item>		<item>১২নং ওয়ার্ড</item>		<item>১৩নং ওয়ার্ড </item>        	<item>১৪নং ওয়ার্ড </item>		<item>১৫নং ওয়ার্ড </item>        	<item>১৬নং ওয়ার্ড </item>		<item>১৭নং ওয়ার্ড </item>		<item>১৮নং ওয়ার্ড </item>		<item>১৯নং ওয়ার্ড</item>		<item>২০নং ওয়ার্ড </item>
+        <item>২১নং ওয়ার্ড </item>		<item>২২নং ওয়ার্ড </item>        	<item>২৩নং ওয়ার্ড </item>		<item>২৪নং ওয়ার্ড </item>		<item>২৫নং ওয়ার্ড </item>		<item>২৬নং ওয়ার্ড </item>		<item>২৭নং ওয়ার্ড </item>	<item>২৮নং ওয়ার্ড</item>       		<item>২৯নং ওয়ার্ড </item>		<item>৩০নং ওয়ার্ড</item>		<item>৩১নং ওয়ার্ড</item>
+        <item>৩২নং ওয়ার্ড</item>		<item>৩৩নং ওয়ার্ড </item>
+
+
+
+
+    </string-array>
+
+
+    <string-array name="maymanshingsic">
+
+        <item>১নং ওয়ার্ড</item>       	<item>২নং ওয়ার্ড </item>		<item>৩নং ওয়ার্ড</item>		<item>৪নং ওয়ার্ড</item>		<item>৫নং ওয়ার্ড</item>
+        <item>৬নং ওয়ার্ড </item>        	<item>৭নং ওয়ার্ড </item>		<item>৮নং ওয়ার্ড </item>        	<item>৯নং ওয়ার্ড </item>		<item>১০নং ওয়ার্ড </item>		<item>১১নং ওয়ার্ড </item>
+        <item>১২নং ওয়ার্ড</item>		<item>১৩নং ওয়ার্ড </item>        	<item>১৪নং ওয়ার্ড </item>		<item>১৫নং ওয়ার্ড </item>        	<item>১৬নং ওয়ার্ড </item>		<item>১৭নং ওয়ার্ড </item>		<item>১৮নং ওয়ার্ড </item>
+        <item>১৯নং ওয়ার্ড</item>		<item>২০নং ওয়ার্ড </item>        	<item>২১নং ওয়ার্ড </item>		<item>২২নং ওয়ার্ড </item>        	<item>২৩নং ওয়ার্ড </item>		<item>২৪নং ওয়ার্ড </item>		<item>২৫নং ওয়ার্ড </item>
+        <item>২৬নং ওয়ার্ড </item>		<item>২৭নং ওয়ার্ড </item>		<item>২৮নং ওয়ার্ড</item>       	<item>২৯নং ওয়ার্ড </item>		<item>৩০নং ওয়ার্ড</item>		<item>৩১নং ওয়ার্ড</item>		<item>৩২নং ওয়ার্ড</item>
+        <item>৩৩নং ওয়ার্ড </item>
+
+
+
+
+
+    </string-array>
+
+
+    <string-array name="rajshahingsic">
+
+        <item>১নং ওয়ার্ড</item>       	<item>২নং ওয়ার্ড </item>		<item>৩নং ওয়ার্ড</item>		<item>৪নং ওয়ার্ড</item>		<item>৫নং ওয়ার্ড</item>
+        <item>৬নং ওয়ার্ড </item>        	<item>৭নং ওয়ার্ড </item>		<item>৮নং ওয়ার্ড </item>        	<item>৯নং ওয়ার্ড </item>		<item>১০নং ওয়ার্ড </item>
+        <item>১১নং ওয়ার্ড </item>		<item>১২নং ওয়ার্ড</item>		<item>১৩নং ওয়ার্ড </item>        	<item>১৪নং ওয়ার্ড </item>		<item>১৫নং ওয়ার্ড </item>
+        <item>১৬নং ওয়ার্ড </item>		<item>১৭নং ওয়ার্ড </item>		<item>১৮নং ওয়ার্ড </item>		<item>১৯নং ওয়ার্ড</item>		<item>২০নং ওয়ার্ড </item>        	<item>২১নং ওয়ার্ড </item>		<item>২২নং ওয়ার্ড </item>
+        <item>২৩নং ওয়ার্ড </item>		<item>২৪নং ওয়ার্ড </item>		<item>২৫নং ওয়ার্ড </item>		<item>২৬নং ওয়ার্ড </item>
+        <item>২৭নং ওয়ার্ড </item>		<item>২৮নং ওয়ার্ড</item>       	<item>২৯নং ওয়ার্ড </item>
+        <item>৩০নং ওয়ার্ড</item>
+
+
+
+    </string-array>
+
+
+
+
+
+
+    <string-array name="dhakaSouthsic">
+
+        <item>১নং ওয়ার্ড</item>   		<item>২নং ওয়ার্ড </item>	<item>৩নং ওয়ার্ড</item>	<item>৪নং ওয়ার্ড</item>		<item>৫নং ওয়ার্ড</item>		<item>৬নং ওয়ার্ড </item>        	<item>৭নং ওয়ার্ড </item>		<item>৮নং ওয়ার্ড </item>        	<item>৯নং ওয়ার্ড </item>		<item>১০নং ওয়ার্ড </item>		<item>১১নং ওয়ার্ড </item>		<item>১২নং ওয়ার্ড</item>		<item>১৩নং ওয়ার্ড </item>        	<item>১৪নং ওয়ার্ড </item>		<item>১৫নং ওয়ার্ড </item>        	<item>১৬নং ওয়ার্ড </item>		<item>১৭নং ওয়ার্ড </item>		<item>১৮নং ওয়ার্ড </item>
+        <item>১৯নং ওয়ার্ড</item>		<item>২০নং ওয়ার্ড </item>        	<item>২১নং ওয়ার্ড </item>		<item>২২নং ওয়ার্ড </item>       	<item>২৩নং ওয়ার্ড </item>		<item>২৪নং ওয়ার্ড </item>		<item>২৫নং ওয়ার্ড </item>		<item>২৬নং ওয়ার্ড </item>		<item>২৭নং ওয়ার্ড </item>		<item>২৮নং ওয়ার্ড</item>       	<item>২৯নং ওয়ার্ড </item>		<item>৩০নং ওয়ার্ড</item>		<item>৩১নং ওয়ার্ড</item>		<item>৩২নং ওয়ার্ড</item>		<item>৩৩নং ওয়ার্ড </item>       	<item>৩৪নং ওয়ার্ড </item>		<item>৩৫নং ওয়ার্ড </item>        	<item>৩৬নং ওয়ার্ড </item>
+        <item>৩৭নং ওয়ার্ড </item>		<item>৩৮নং ওয়ার্ড </item>		<item>৩৯নং ওয়ার্ড</item>		<item>৪০নং ওয়ার্ড </item>        	<item>৪১নং ওয়ার্ড </item>		<item>৪২নং ওয়ার্ড </item>        	<item>৪৩৬নং ওয়ার্ড </item>		<item>৪৪নং ওয়ার্ড </item>		<item>৪৫নং ওয়ার্ড </item>		<item>৪৬নং ওয়ার্ড</item>
+        <item>৪৭নং ওয়ার্ড </item>        	<item>৪৮নং ওয়ার্ড </item>		<item>৪৯নং ওয়ার্ড </item>        	<item>৫০নং ওয়ার্ড </item>		<item>৫১নং ওয়ার্ড </item>		<item>৫২নং ওয়ার্ড </item>		<item>৫৩নং ওয়ার্ড </item>		<item>৫৪নং ওয়ার্ড </item>		<item>৫৫নং ওয়ার্ড </item>		<item>৫৬নং ওয়ার্ড </item>		<item>৫৭নং ওয়ার্ড </item>		<item>৫৮নং ওয়ার্ড</item>       		<item>৫৯নং ওয়ার্ড </item>		<item>৬০নং ওয়ার্ড</item>		<item>৬১নং ওয়ার্ড</item>		<item>৬২নং ওয়ার্ড</item>
+        <item>৬৩নং ওয়ার্ড </item>        	<item>৬৪নং ওয়ার্ড </item>		<item>৬৪নং ওয়ার্ড </item>        	<item>৬৫নং ওয়ার্ড </item>		<item>৬৬নং ওয়ার্ড </item>		<item>৬৭নং ওয়ার্ড </item>		<item>৬৮নং ওয়ার্ড</item>		<item>৬৯নং ওয়ার্ড </item>        	<item>৭০নং ওয়ার্ড </item>		<item>৭১নং ওয়ার্ড </item>        	<item>৭২নং ওয়ার্ড </item>		<item>৭৩নং ওয়ার্ড </item>		<item>৭৪নং ওয়ার্ড </item>		<item>৭৫নং ওয়ার্ড </item>
+
+    </string-array>
+
+
+</resources>
